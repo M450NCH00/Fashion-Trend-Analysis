@@ -1,3 +1,3 @@
 # Welcome to Fashion Trend Analysis Repository
 ## About
-Fashion Trend Analysis Mini Project for SC1015 - Introduction to Data Science and Artificial Intelligence
+This is a Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the fashion trend from [The Fashion Trend Dataset](https://www.kaggle.com/datasets/fashionworldda/fashion-trend-dataset).
