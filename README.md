@@ -15,8 +15,8 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
    
 ## Problem Definition
 
-1. Are we able to make predictions on fashion data if fashion is ever-changing and hard to predict?
-2. Are we able to predict and classify the gender of customer based on the sales count of various category of clothing?
+- Are we able to make predictions on fashion data if fashion is ever-changing and hard to predict?
+- Are we able to predict and classify the gender of customer based on the sales count of various category of clothing?
 
 ## Models Used
 
@@ -24,6 +24,8 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 2. Random Forest
 
 ## Conclusion
+
+- 
 
 ## Lessons Learnt
 
@@ -36,4 +38,9 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## References
 - <https://www.kaggle.com/datasets/fashionworldda/fashion-trend-dataset>
-- 
+- <https://www.kaggle.com/code/spidy20/3d-visualization-of-multiple-linear-regression>
+- <https://aegis4048.github.io/mutiple_linear_regression_and_visualization_in_python>
+- <https://towardsdatascience.com/random-forest-classification-678e551462f5>
+- <https://www.datacamp.com/tutorial/random-forests-classifier-python>
+- <https://matplotlib.org/stable/gallery/mplot3d/3d_bars.html>
+- <https://www.youtube.com/watch?v=k3FA2nUHEEI>
