@@ -1,0 +1,661 @@
+product_id,product_name,gender,category,pattern,color,age_group,season,price,material,sales_count,reviews_count,average_rating,out_of_stock_times,brand,discount,last_stock_date,wish_list_count,month_of_sale,year_of_sale
+1001,Biker Jacket,Male,Shirt,Geometric,White,25-35,Spring,70.36,Synthetic,75,65,4.9,3,ZARA,20%,2018/1/28,211,1,2018
+1002,Business Shirt,Male,Jacket,Polka Dots,Beige,18-24,Summer,91.59,Wool,296,25,3.5,6,ZARA,0%,2018/1/28,211,1,2018
+1003,Wool Jacket,Female,Dress,Geometric,Brown,18-24,All,129.52,Wool,50,32,4.3,4,ZARA,5%,2018/1/7,64,1,2018
+1004,Summer Dress,Male,Shorts,Plain,White,25-35,All,116.01,Cotton,435,73,4.6,3,ZARA,10%,2018/1/1,171,1,2018
+1005,Casual Jeans,Male,Shirt,Plain,Beige,35-45,Winter,125.48,Viscose,79,36,3.6,4,ZARA,0%,2018/1/28,126,1,2018
+1006,Business Shirt,Female,Shirt,Plain,Brown,35-45,Spring,23.9,Denim,332,96,4.7,6,ZARA,15%,2018/1/16,136,1,2018
+1007,Casual Jeans,Female,Blouse,Plain,Beige,25-35,All,27.95,Denim,100,92,4,3,ZARA,10%,2018/1/2,170,1,2018
+1008,Heels,Male,Shoes,Geometric,Beige,25-35,Autumn,87.09,Viscose,333,97,3.2,3,ZARA,0%,2018/1/3,128,1,2018
+1009,Beach Shirt,Female,Shirt,Polka Dots,Brown,35-45,All,97.1,Denim,424,68,3.5,6,ZARA,10%,2018/1/14,193,1,2018
+1010,Pattern Skirt,Female,Jeans,Plain,Brown,35-45,Summer,42.82,Synthetic,335,33,4.1,6,ZARA,0%,2018/1/21,248,1,2018
+1011,Business Shirt,Female,Dress,Plain,Beige,25-35,All,85.52,Synthetic,304,87,3.7,2,ZARA,5%,2018/1/1,213,1,2018
+1012,Blouse,Female,Jacket,Plain,White,18-24,Spring,36.11,Cotton,62,97,4.6,5,ZARA,0%,2018/2/12,73,2,2018
+1013,Chino Shorts,Female,Jeans,Heart,Red,25-35,Autumn,112.16,Leather,352,38,4.4,4,ZARA,20%,2018/2/19,181,2,2018
+1014,Pattern Skirt,Female,Jeans,Heart,Pink,18-24,Winter,91.96,Leather,461,48,4,5,ZARA,10%,2018/2/21,88,2,2018
+1015,Blouse,Female,Shorts,Plain,Red,35-45,Spring,41.31,Denim,265,100,3.7,3,ZARA,10%,2018/2/8,130,2,2018
+1016,Blouse,Female,Jeans,Polka Dots,Pink,35-45,All,140.63,Synthetic,146,24,4.6,6,ZARA,10%,2018/2/10,181,2,2018
+1017,Pattern Skirt,Male,Shorts,Heart,White,18-24,Winter,76.42,Synthetic,296,73,3,6,ZARA,5%,2018/2/24,84,2,2018
+1018,Summer Dress,Male,Skirt,Plain,Pink,18-24,Summer,113.35,Cotton Blend,247,79,3.3,6,ZARA,5%,2018/2/18,149,2,2018
+1019,Casual Jeans,Female,Shorts,Heart,Pink,18-24,Summer,90.37,Viscose,437,21,4.8,4,ZARA,15%,2018/2/6,153,2,2018
+1020,Pattern Skirt,Female,Skirt,Polka Dots,White,35-45,Spring,74.13,Synthetic,356,34,3.8,2,ZARA,0%,2018/2/25,139,2,2018
+1021,Blouse,Male,Skirt,Plain,Pink,35-45,All,25.48,Cotton,451,72,3.6,1,ZARA,10%,2018/2/22,54,2,2018
+1022,Blouse,Male,Jeans,Polka Dots,White,18-24,Summer,147.52,Cotton,189,37,3.9,6,ZARA,15%,2018/2/9,104,2,2018
+1023,Heels,Male,Shoes,Geometric,White,25-35,Autumn,137.01,Synthetic,426,54,4.2,2,ZARA,15%,2018/3/11,170,3,2018
+1024,Pattern Skirt,Male,Shoes,Geometric,Beige,18-24,Summer,87.58,Wool,377,75,4.8,2,ZARA,5%,2018/3/23,186,3,2018
+1025,Blouse,Female,Dress,Polka Dots,Beige,25-35,Winter,67.56,Cotton Blend,198,68,3.8,5,ZARA,20%,2018/3/18,149,3,2018
+1026,Casual Jeans,Male,Shorts,Polka Dots,White,18-24,Summer,71.04,Leather,405,67,3.2,2,ZARA,15%,2018/3/28,101,3,2018
+1027,Summer Dress,Male,Jeans,Geometric,White,35-45,Autumn,67.63,Viscose,177,42,4.6,6,ZARA,20%,2018/3/23,196,3,2018
+1028,Business Shirt,Male,Shorts,Polka Dots,Brown,35-45,Autumn,141.71,Viscose,234,44,4.1,4,ZARA,15%,2018/3/16,120,3,2018
+1029,Summer Dress,Female,Skirt,Geometric,Beige,18-24,All,57.57,Synthetic,78,38,3.2,1,ZARA,10%,2018/3/16,195,3,2018
+1030,Casual Jeans,Male,Dress,Polka Dots,Brown,35-45,Summer,73.83,Leather,244,69,3.9,5,ZARA,10%,2018/3/21,116,3,2018
+1031,Blouse,Male,Shorts,Geometric,Beige,35-45,Winter,62.27,Synthetic,381,87,4,2,ZARA,5%,2018/3/17,181,3,2018
+1032,Biker Jacket,Female,Shirt,Geometric,Beige,18-24,All,60.63,Leather,142,88,4.5,3,ZARA,15%,2018/3/22,64,3,2018
+1033,Beach Shirt,Male,Blouse,Plain,Brown,35-45,All,95.85,Cotton Blend,78,94,3.3,5,ZARA,0%,2018/3/4,212,3,2018
+1034,Blouse,Male,Skirt,Geometric,Brown,18-24,Autumn,115.58,Wool,168,95,3.6,3,ZARA,5%,2018/4/4,212,4,2018
+1035,Wool Jacket,Male,Skirt,Plain,Brown,25-35,Autumn,27.99,Wool,87,99,4.3,5,ZARA,15%,2018/4/24,247,4,2018
+1036,Casual Jeans,Female,Jeans,Geometric,Beige,35-45,Summer,51.7,Synthetic,123,24,3.1,4,ZARA,5%,2018/4/23,82,4,2018
+1037,Pattern Skirt,Male,Dress,Plain,White,18-24,Spring,119.51,Viscose,466,36,4.7,1,ZARA,5%,2018/4/13,95,4,2018
+1038,Beach Shirt,Male,Blouse,Geometric,White,35-45,All,143.34,Cotton Blend,205,81,4.2,4,ZARA,20%,2018/4/23,190,4,2018
+1039,Heels,Female,Shirt,Polka Dots,Beige,18-24,Autumn,88.76,Denim,360,43,3.1,3,ZARA,0%,2018/4/20,136,4,2018
+1040,Summer Dress,Male,Shorts,Geometric,Brown,18-24,Summer,128.54,Leather,138,46,3.6,5,ZARA,0%,2018/4/29,142,4,2018
+1041,Beach Shirt,Male,Shoes,Polka Dots,Beige,25-35,Winter,37.19,Wool,160,82,4,4,ZARA,15%,2018/4/21,140,4,2018
+1042,Biker Jacket,Male,Blouse,Geometric,White,25-35,Winter,31.6,Leather,217,90,4.6,3,ZARA,10%,2018/4/6,155,4,2018
+1043,Biker Jacket,Male,Jacket,Polka Dots,Brown,35-45,Autumn,67.97,Denim,457,31,3,1,ZARA,10%,2018/4/28,93,4,2018
+1044,Beach Shirt,Female,Jeans,Plain,Beige,25-35,Winter,131.65,Wool,424,43,4.4,6,ZARA,20%,2018/4/9,231,4,2018
+1045,Blouse,Male,Jacket,Plain,White,35-45,Summer,60.66,Denim,453,55,3.4,6,ZARA,15%,2018/5/20,82,5,2018
+1046,Heels,Male,Jacket,Plain,White,18-24,Autumn,129.26,Cotton,189,96,3.3,5,ZARA,10%,2018/5/19,198,5,2018
+1047,Beach Shirt,Male,Dress,Plain,White,18-24,Winter,100.13,Wool,180,100,3.5,1,ZARA,0%,2018/5/6,171,5,2018
+1048,Biker Jacket,Female,Blouse,Plain,Beige,25-35,Winter,141.05,Synthetic,54,74,4.2,2,ZARA,5%,2018/5/25,65,5,2018
+1049,Chino Shorts,Male,Shorts,Geometric,Brown,25-35,Spring,99.37,Denim,170,77,4.5,1,ZARA,10%,2018/5/16,241,5,2018
+1050,Chino Shorts,Female,Blouse,Geometric,Brown,35-45,Spring,54.62,Viscose,495,86,4.1,5,ZARA,15%,2018/5/7,188,5,2018
+1051,Business Shirt,Female,Dress,Geometric,Beige,18-24,Autumn,83.37,Wool,380,81,3.7,6,ZARA,0%,2018/5/2,154,5,2018
+1052,Business Shirt,Male,Jacket,Geometric,Beige,18-24,Summer,24.41,Wool,359,62,3.1,6,ZARA,10%,2018/5/19,208,5,2018
+1053,Pattern Skirt,Female,Shirt,Plain,White,18-24,Autumn,29.66,Cotton,257,95,3.7,3,ZARA,5%,2018/5/21,74,5,2018
+1054,Chino Shorts,Female,Jeans,Geometric,Beige,35-45,Winter,69.76,Synthetic,484,32,4.1,2,ZARA,5%,2018/5/7,157,5,2018
+1055,Beach Shirt,Female,Jacket,Geometric,Beige,25-35,Winter,56.5,Synthetic,265,50,3.6,3,ZARA,20%,2018/5/10,230,5,2018
+1056,Summer Dress,Male,Shorts,Geometric,Yellow,25-35,Winter,105.41,Denim,479,86,4.9,4,ZARA,20%,2018/6/19,98,6,2018
+1057,Pattern Skirt,Male,Skirt,Plain,White,25-35,Winter,101.63,Cotton Blend,357,100,3.1,4,ZARA,20%,2018/6/27,132,6,2018
+1058,Beach Shirt,Male,Jacket,Plain,Sky Blue,18-24,Summer,43.44,Denim,304,29,4.7,1,ZARA,0%,2018/6/18,156,6,2018
+1059,Casual Jeans,Female,Jacket,Geometric,Yellow,25-35,Winter,72.4,Denim,149,35,4.6,2,ZARA,10%,2018/6/2,247,6,2018
+1060,Biker Jacket,Male,Blouse,Plain,Sky Blue,25-35,Spring,129.2,Wool,373,94,3.4,6,ZARA,10%,2018/6/22,228,6,2018
+1061,Blouse,Male,Shirt,Geometric,Yellow,35-45,Autumn,141.73,Denim,148,45,4.4,6,ZARA,15%,2018/6/17,218,6,2018
+1062,Biker Jacket,Male,Dress,Geometric,Yellow,18-24,Winter,60.77,Denim,238,66,3.8,6,ZARA,15%,2018/6/1,182,6,2018
+1063,Business Shirt,Female,Jacket,Geometric,Yellow,35-45,All,149.66,Wool,463,71,3.8,1,ZARA,10%,2018/6/29,160,6,2018
+1064,Heels,Male,Shirt,Floral,White,18-24,Autumn,63.33,Leather,381,98,4.6,3,ZARA,15%,2018/6/23,105,6,2018
+1065,Pattern Skirt,Male,Shorts,Geometric,Yellow,25-35,Summer,149.32,Leather,187,99,3.1,5,ZARA,0%,2018/6/4,96,6,2018
+1066,Biker Jacket,Female,Blouse,Plain,Yellow,35-45,Spring,83.69,Viscose,123,94,3.7,1,ZARA,10%,2018/6/23,127,6,2018
+1067,Casual Jeans,Female,Blouse,Polka Dots,White,18-24,All,27.1,Viscose,492,95,4.7,5,ZARA,10%,2018/7/5,229,7,2018
+1068,Business Shirt,Female,Skirt,Geometric,White,35-45,Winter,142.69,Wool,79,95,3.4,6,ZARA,15%,2018/7/4,179,7,2018
+1069,Biker Jacket,Male,Blouse,Geometric,White,35-45,Winter,146.88,Denim,244,53,4.7,4,ZARA,0%,2018/7/25,67,7,2018
+1070,Beach Shirt,Male,Dress,Polka Dots,Beige,35-45,Winter,94.28,Denim,324,39,4.7,2,ZARA,15%,2018/7/1,235,7,2018
+1071,Chino Shorts,Female,Jacket,Geometric,Brown,25-35,Summer,31.7,Wool,132,94,4.2,1,ZARA,15%,2018/7/6,221,7,2018
+1072,Summer Dress,Female,Jeans,Geometric,White,25-35,Winter,86.74,Denim,326,94,3.6,6,ZARA,15%,2018/7/22,54,7,2018
+1073,Chino Shorts,Male,Shirt,Geometric,Beige,25-35,All,39.6,Synthetic,125,86,3.6,5,ZARA,5%,2018/7/22,211,7,2018
+1074,Wool Jacket,Male,Shoes,Plain,Beige,35-45,Summer,71.08,Denim,165,74,3.5,3,ZARA,0%,2018/7/22,250,7,2018
+1075,Biker Jacket,Male,Jacket,Geometric,Brown,18-24,Winter,25.48,Denim,326,97,3.8,6,ZARA,15%,2018/7/1,207,7,2018
+1076,Wool Jacket,Male,Shoes,Polka Dots,Brown,35-45,Summer,46.26,Leather,161,95,3.4,2,ZARA,0%,2018/7/24,218,7,2018
+1077,Casual Jeans,Male,Blouse,Plain,Beige,35-45,Spring,30.53,Cotton Blend,264,59,4.5,1,ZARA,20%,2018/7/24,183,7,2018
+1078,Biker Jacket,Female,Shoes,Plain,White,25-35,All,51.07,Cotton,284,48,3.7,6,ZARA,15%,2018/8/15,221,8,2018
+1079,Heels,Male,Skirt,Polka Dots,White,35-45,Winter,85.57,Denim,147,87,3.3,3,ZARA,0%,2018/8/22,205,8,2018
+1080,Summer Dress,Male,Skirt,Polka Dots,Brown,18-24,Spring,118.82,Wool,301,62,3.3,1,ZARA,5%,2018/8/28,147,8,2018
+1081,Wool Jacket,Female,Skirt,Geometric,Beige,35-45,Spring,68.28,Cotton Blend,227,68,4.4,6,ZARA,5%,2018/8/27,227,8,2018
+1082,Blouse,Female,Dress,Plain,Brown,25-35,All,28.41,Wool,91,21,4.4,6,ZARA,0%,2018/8/6,225,8,2018
+1083,Summer Dress,Female,Shorts,Geometric,White,35-45,Winter,98.59,Denim,268,83,3.2,2,ZARA,5%,2018/8/1,239,8,2018
+1084,Blouse,Male,Blouse,Polka Dots,White,35-45,Spring,76.86,Leather,323,80,4.7,6,ZARA,10%,2018/8/17,233,8,2018
+1085,Blouse,Male,Shoes,Plain,Brown,25-35,All,104.73,Viscose,427,87,4,4,ZARA,5%,2018/8/21,66,8,2018
+1086,Summer Dress,Female,Jeans,Geometric,Brown,18-24,Summer,64.05,Denim,456,53,4.5,5,ZARA,10%,2018/8/10,204,8,2018
+1087,Chino Shorts,Male,Shoes,Geometric,Beige,25-35,All,114.92,Synthetic,200,39,3.4,6,ZARA,5%,2018/8/3,185,8,2018
+1088,Summer Dress,Male,Blouse,Plain,Beige,35-45,Spring,77.11,Cotton,170,100,4.1,1,ZARA,15%,2018/8/26,152,8,2018
+1089,Wool Jacket,Female,Blouse,Plain,Beige,25-35,Spring,102.63,Denim,420,34,3.7,2,ZARA,20%,2018/9/25,91,9,2018
+1090,Heels,Male,Skirt,Plain,Brown,35-45,Winter,47.32,Leather,100,40,3.7,5,ZARA,10%,2018/9/10,125,9,2018
+1091,Wool Jacket,Female,Shirt,Plain,Beige,25-35,Spring,49.04,Viscose,126,65,4.5,1,ZARA,10%,2018/9/17,58,9,2018
+1092,Summer Dress,Male,Shirt,Polka Dots,Brown,18-24,Spring,108.82,Cotton,107,43,4.8,5,ZARA,15%,2018/9/29,88,9,2018
+1093,Business Shirt,Male,Blouse,Polka Dots,Beige,18-24,Winter,108.97,Cotton Blend,176,45,4.2,3,ZARA,15%,2018/9/18,203,9,2018
+1094,Casual Jeans,Male,Skirt,Polka Dots,Brown,25-35,All,134.63,Denim,486,64,3.7,1,ZARA,10%,2018/9/8,178,9,2018
+1095,Pattern Skirt,Female,Shoes,Polka Dots,Beige,18-24,All,51.73,Cotton,86,71,3.1,1,ZARA,5%,2018/9/19,95,9,2018
+1096,Wool Jacket,Female,Blouse,Polka Dots,White,35-45,Winter,108.6,Cotton,288,73,3.9,3,ZARA,0%,2018/9/21,87,9,2018
+1097,Biker Jacket,Male,Shirt,Geometric,White,35-45,Winter,80.38,Synthetic,200,62,3.9,4,ZARA,5%,2018/9/26,121,9,2018
+1098,Blouse,Female,Dress,Polka Dots,Beige,18-24,Summer,149.88,Viscose,73,35,3.9,5,ZARA,5%,2018/9/14,227,9,2018
+1099,Wool Jacket,Male,Jeans,Plain,Brown,18-24,Summer,47.18,Cotton Blend,225,82,4.1,6,ZARA,15%,2018/9/4,198,9,2018
+1100,Casual Jeans,Female,Skirt,Striped,Orange,35-45,Summer,31.9,Viscose,418,52,3.5,2,ZARA,10%,2018/10/1,144,10,2018
+1101,Heels,Male,Skirt,Striped,Orange,25-35,Summer,79.23,Synthetic,195,22,3.7,1,ZARA,0%,2018/10/1,215,10,2018
+1102,Blouse,Female,Shoes,Striped,Orange,18-24,All,94.56,Synthetic,396,50,3.6,3,ZARA,20%,2018/10/4,238,10,2018
+1103,Heels,Male,Dress,Striped,Orange,25-35,Summer,89.52,Cotton,388,80,3.7,2,ZARA,5%,2018/10/20,247,10,2018
+1104,Wool Jacket,Female,Skirt,Striped,Black,35-45,All,65.11,Wool,184,78,3.4,5,ZARA,0%,2018/10/18,141,10,2018
+1105,Beach Shirt,Female,Shorts,Plain,Black,35-45,Spring,70.36,Viscose,476,36,3.7,6,ZARA,20%,2018/10/29,158,10,2018
+1106,Chino Shorts,Female,Jeans,Striped,Orange,18-24,All,92.35,Viscose,273,70,4.3,3,ZARA,5%,2018/10/26,248,10,2018
+1107,Beach Shirt,Female,Shorts,Striped,Black,35-45,Summer,120.04,Cotton,354,61,3,5,ZARA,5%,2018/10/4,238,10,2018
+1108,Beach Shirt,Male,Blouse,Striped,Black,18-24,All,37.23,Synthetic,462,92,3.8,6,ZARA,20%,2018/10/9,169,10,2018
+1109,Business Shirt,Female,Shirt,Striped,Orange,25-35,Winter,76.22,Cotton,248,55,4.7,2,ZARA,10%,2018/10/10,83,10,2018
+1110,Summer Dress,Female,Skirt,Striped,Black,25-35,Autumn,63.49,Viscose,96,42,4.1,1,ZARA,5%,2018/10/27,230,10,2018
+1111,Chino Shorts,Female,Jeans,Geometric,White,18-24,All,113.19,Wool,386,28,3.2,6,ZARA,0%,2018/11/5,78,11,2018
+1112,Beach Shirt,Male,Shirt,Polka Dots,White,35-45,Autumn,138.78,Viscose,427,23,3.3,6,ZARA,15%,2018/11/12,177,11,2018
+1113,Business Shirt,Male,Shoes,Geometric,White,18-24,Winter,75.58,Leather,287,35,3.8,3,ZARA,20%,2018/11/27,159,11,2018
+1114,Blouse,Male,Shirt,Geometric,Navy Blue,25-35,Winter,36.28,Viscose,303,82,3,6,ZARA,5%,2018/11/22,131,11,2018
+1115,Chino Shorts,Male,Jacket,Geometric,Grey,25-35,Spring,139.63,Denim,283,89,3.6,5,ZARA,0%,2018/11/21,94,11,2018
+1116,Pattern Skirt,Female,Shoes,Plain,Navy Blue,25-35,Summer,143.09,Synthetic,291,46,4.3,4,ZARA,5%,2018/11/11,56,11,2018
+1117,Casual Jeans,Female,Shoes,Geometric,Grey,25-35,Winter,68.97,Viscose,221,67,4.5,1,ZARA,0%,2018/11/15,110,11,2018
+1118,Wool Jacket,Female,Jacket,Polka Dots,Navy Blue,35-45,Autumn,45.5,Viscose,69,96,3.5,4,ZARA,15%,2018/11/25,249,11,2018
+1119,Biker Jacket,Male,Skirt,Plain,White,35-45,Spring,128.01,Wool,461,26,3.6,3,ZARA,10%,2018/11/20,81,11,2018
+1120,Heels,Female,Jacket,Geometric,Navy Blue,25-35,All,99.84,Cotton,207,78,4.1,1,ZARA,20%,2018/11/6,125,11,2018
+1121,Blouse,Male,Shirt,Polka Dots,Grey,35-45,Spring,111.34,Viscose,103,45,4.3,4,ZARA,10%,2018/11/20,60,11,2018
+1122,Summer Dress,Female,Skirt,Geometric,Red,25-35,Summer,63.78,Viscose,117,70,4.7,4,ZARA,20%,2018/12/4,131,12,2018
+1123,Summer Dress,Male,Shoes,Plain,White,18-24,Autumn,86.36,Wool,223,89,4.6,3,ZARA,20%,2018/12/5,185,12,2018
+1124,Chino Shorts,Male,Shorts,Plain,White,35-45,All,140.75,Leather,113,78,4.9,3,ZARA,15%,2018/12/5,86,12,2018
+1125,Beach Shirt,Male,Skirt,Geometric,Green,18-24,Autumn,120.84,Leather,348,96,4.1,5,ZARA,10%,2018/12/8,199,12,2018
+1126,Business Shirt,Female,Dress,Geometric,Red,18-24,Autumn,48.85,Viscose,178,36,4.5,4,ZARA,10%,2018/12/1,238,12,2018
+1127,Summer Dress,Male,Jeans,Polka Dots,Green,18-24,All,35.1,Synthetic,289,36,3.5,3,ZARA,5%,2018/12/18,173,12,2018
+1128,Casual Jeans,Female,Skirt,Plain,White,25-35,Spring,143.13,Cotton,496,63,4.6,6,ZARA,10%,2018/12/26,109,12,2018
+1129,Beach Shirt,Male,Shorts,Geometric,Red,35-45,Spring,69.51,Cotton Blend,210,92,4.9,4,ZARA,15%,2018/12/13,154,12,2018
+1130,Chino Shorts,Female,Shoes,Polka Dots,Red,25-35,Spring,35.9,Wool,452,70,3.7,1,ZARA,10%,2018/12/5,222,12,2018
+1131,Casual Jeans,Male,Shoes,Plain,Red,18-24,Autumn,52.21,Wool,51,25,4.8,2,ZARA,20%,2018/12/16,223,12,2018
+1132,Pattern Skirt,Male,Jacket,Geometric,Green,25-35,Winter,45.36,Wool,493,54,4.1,1,ZARA,15%,2018/12/2,66,12,2018
+1133,Heels,Female,Jeans,Geometric,White,18-24,Winter,56.45,Synthetic,306,67,4.5,2,ZARA,0%,2019/1/3,144,1,2019
+1134,Heels,Male,Jeans,Plain,White,25-35,Autumn,126.66,Cotton Blend,378,71,4.3,2,ZARA,5%,2019/1/15,189,1,2019
+1135,Biker Jacket,Male,Shirt,Plain,White,35-45,Spring,121.99,Cotton,247,23,4.5,4,ZARA,15%,2019/1/16,111,1,2019
+1136,Heels,Female,Shoes,Geometric,Beige,35-45,Spring,107.52,Cotton Blend,302,70,3,6,ZARA,20%,2019/1/4,223,1,2019
+1137,Blouse,Female,Shirt,Plain,Beige,25-35,Summer,37.61,Cotton Blend,374,37,3.4,6,ZARA,10%,2019/1/7,235,1,2019
+1138,Wool Jacket,Male,Shoes,Geometric,White,35-45,All,108.28,Viscose,415,52,4.9,3,ZARA,0%,2019/1/27,59,1,2019
+1139,Chino Shorts,Male,Blouse,Plain,Beige,35-45,Autumn,35.92,Synthetic,77,41,3.6,3,ZARA,5%,2019/1/15,145,1,2019
+1140,Chino Shorts,Female,Shirt,Geometric,Brown,18-24,Autumn,116.35,Leather,134,47,4.1,3,ZARA,5%,2019/1/3,203,1,2019
+1141,Blouse,Female,Jeans,Polka Dots,Beige,35-45,Spring,109.52,Leather,329,37,3,1,ZARA,0%,2019/1/12,128,1,2019
+1142,Blouse,Male,Skirt,Plain,Brown,18-24,Summer,86.91,Leather,292,59,4.3,5,ZARA,15%,2019/1/10,111,1,2019
+1143,Casual Jeans,Female,Jeans,Polka Dots,White,18-24,Winter,142.34,Synthetic,111,100,4.5,6,ZARA,15%,2019/1/23,92,1,2019
+1144,Blouse,Male,Dress,Polka Dots,Red,35-45,All,48.98,Synthetic,450,89,4,2,ZARA,10%,2019/2/22,112,2,2019
+1145,Blouse,Female,Shoes,Polka Dots,Red,25-35,All,71.53,Denim,443,54,4.2,4,ZARA,15%,2019/2/1,216,2,2019
+1146,Pattern Skirt,Male,Dress,Heart,Red,25-35,Winter,142.33,Cotton Blend,265,42,3.3,2,ZARA,5%,2019/2/18,145,2,2019
+1147,Casual Jeans,Male,Shirt,Polka Dots,Red,18-24,Summer,141.78,Leather,432,25,4,3,ZARA,20%,2019/2/2,155,2,2019
+1148,Business Shirt,Female,Jeans,Polka Dots,Pink,18-24,Spring,35.07,Wool,92,38,3.9,5,ZARA,10%,2019/2/21,92,2,2019
+1149,Wool Jacket,Female,Dress,Plain,Red,35-45,Spring,142.39,Leather,321,68,4.1,5,ZARA,0%,2019/2/25,126,2,2019
+1150,Blouse,Male,Shoes,Polka Dots,Pink,25-35,Summer,87.16,Cotton,250,50,3.7,4,ZARA,15%,2019/2/4,158,2,2019
+1151,Business Shirt,Female,Dress,Polka Dots,Red,18-24,Spring,21.78,Cotton,296,27,3.9,4,ZARA,0%,2019/2/28,97,2,2019
+1152,Business Shirt,Male,Skirt,Polka Dots,Pink,18-24,All,23.69,Denim,242,69,3.8,4,ZARA,5%,2019/2/26,56,2,2019
+1153,Summer Dress,Male,Shoes,Heart,Pink,25-35,Winter,50.91,Viscose,269,26,3.1,5,ZARA,5%,2019/2/25,220,2,2019
+1154,Biker Jacket,Female,Blouse,Polka Dots,Pink,18-24,Spring,24.05,Viscose,229,43,4.7,4,ZARA,0%,2019/2/15,216,2,2019
+1155,Pattern Skirt,Female,Shorts,Polka Dots,White,35-45,Winter,104.07,Cotton Blend,159,38,4.5,4,ZARA,0%,2019/3/7,93,3,2019
+1156,Wool Jacket,Male,Shoes,Plain,White,18-24,All,24.14,Synthetic,223,65,3.7,2,ZARA,5%,2019/3/21,131,3,2019
+1157,Blouse,Female,Dress,Polka Dots,Brown,35-45,Autumn,102.25,Viscose,152,52,4,4,ZARA,10%,2019/3/11,68,3,2019
+1158,Casual Jeans,Female,Jacket,Geometric,Beige,18-24,All,71.42,Cotton Blend,378,92,3.3,1,ZARA,5%,2019/3/1,121,3,2019
+1159,Blouse,Female,Dress,Polka Dots,Brown,35-45,Summer,136.57,Viscose,356,92,3.5,2,ZARA,5%,2019/3/15,65,3,2019
+1160,Beach Shirt,Male,Dress,Geometric,Beige,18-24,Spring,53.92,Denim,149,86,4.8,4,ZARA,5%,2019/3/17,116,3,2019
+1161,Casual Jeans,Female,Shorts,Plain,Beige,25-35,Summer,121.05,Cotton,496,51,4.9,4,ZARA,20%,2019/3/23,66,3,2019
+1162,Business Shirt,Male,Skirt,Geometric,Brown,35-45,Autumn,22.68,Viscose,492,72,4.3,6,ZARA,5%,2019/3/22,164,3,2019
+1163,Business Shirt,Female,Shorts,Geometric,Brown,25-35,Spring,64.66,Denim,194,90,3.8,2,ZARA,10%,2019/3/25,152,3,2019
+1164,Wool Jacket,Female,Jeans,Polka Dots,White,35-45,Winter,146.69,Synthetic,91,51,3.7,6,ZARA,5%,2019/3/11,80,3,2019
+1165,Wool Jacket,Male,Shorts,Plain,Brown,25-35,All,44.77,Denim,238,35,3.1,4,ZARA,20%,2019/3/22,94,3,2019
+1166,Blouse,Male,Dress,Plain,Brown,18-24,Summer,41.85,Denim,283,30,3.7,3,ZARA,5%,2019/4/7,218,4,2019
+1167,Wool Jacket,Male,Shoes,Geometric,Beige,35-45,Spring,62,Leather,208,38,4.7,4,ZARA,15%,2019/4/29,173,4,2019
+1168,Wool Jacket,Male,Jeans,Plain,Brown,35-45,All,32.28,Cotton Blend,100,96,3.8,4,ZARA,20%,2019/4/13,110,4,2019
+1169,Wool Jacket,Male,Shoes,Polka Dots,White,25-35,Spring,101.58,Leather,124,69,4.3,6,ZARA,0%,2019/4/12,64,4,2019
+1170,Summer Dress,Male,Shorts,Plain,White,18-24,All,136.48,Synthetic,259,67,4.3,4,ZARA,10%,2019/4/29,139,4,2019
+1171,Business Shirt,Male,Blouse,Polka Dots,White,25-35,Autumn,142.75,Wool,272,24,3.7,1,ZARA,0%,2019/4/11,227,4,2019
+1172,Chino Shorts,Female,Jacket,Plain,Beige,35-45,All,147.98,Leather,161,50,4.4,6,ZARA,10%,2019/4/11,198,4,2019
+1173,Casual Jeans,Male,Blouse,Plain,White,25-35,Winter,72.86,Viscose,160,23,4,1,ZARA,20%,2019/4/10,155,4,2019
+1174,Beach Shirt,Female,Skirt,Plain,Beige,35-45,Spring,61.82,Wool,205,99,3.6,6,ZARA,20%,2019/4/14,124,4,2019
+1175,Beach Shirt,Male,Skirt,Polka Dots,Beige,25-35,All,45.03,Cotton,152,100,5,6,ZARA,10%,2019/4/1,208,4,2019
+1176,Beach Shirt,Male,Shorts,Plain,White,18-24,Summer,130.36,Denim,317,61,4.7,3,ZARA,5%,2019/4/19,210,4,2019
+1177,Biker Jacket,Male,Shorts,Plain,White,25-35,Autumn,33.05,Cotton,461,82,4.7,4,ZARA,10%,2019/5/25,241,5,2019
+1178,Heels,Female,Shoes,Plain,White,18-24,Summer,109.11,Denim,70,36,4.3,3,ZARA,10%,2019/5/26,98,5,2019
+1179,Beach Shirt,Male,Shoes,Geometric,Beige,25-35,Autumn,64.91,Viscose,311,71,3.9,3,ZARA,10%,2019/5/3,172,5,2019
+1180,Business Shirt,Male,Shoes,Geometric,Brown,35-45,All,101.08,Cotton,387,98,3,6,ZARA,0%,2019/5/19,184,5,2019
+1181,Pattern Skirt,Male,Shoes,Geometric,Brown,35-45,Autumn,119.61,Denim,399,54,4.1,5,ZARA,15%,2019/5/28,240,5,2019
+1182,Casual Jeans,Female,Skirt,Plain,Brown,25-35,Winter,36.91,Leather,135,39,4.9,2,ZARA,20%,2019/5/8,217,5,2019
+1183,Beach Shirt,Female,Skirt,Plain,Beige,18-24,All,104.62,Leather,375,98,4.4,5,ZARA,20%,2019/5/15,52,5,2019
+1184,Beach Shirt,Female,Blouse,Polka Dots,White,18-24,Autumn,143.73,Cotton,72,51,4.4,6,ZARA,5%,2019/5/27,67,5,2019
+1185,Biker Jacket,Male,Shorts,Geometric,Beige,35-45,Spring,69.04,Wool,500,38,4.1,5,ZARA,5%,2019/5/9,83,5,2019
+1186,Chino Shorts,Male,Shorts,Geometric,Beige,25-35,Autumn,29.9,Cotton,155,21,3.5,2,ZARA,20%,2019/5/3,179,5,2019
+1187,Wool Jacket,Male,Shoes,Plain,Brown,35-45,All,107.14,Leather,440,92,4.7,1,ZARA,20%,2019/5/23,135,5,2019
+1188,Blouse,Female,Skirt,Geometric,White,25-35,All,130.49,Wool,367,44,4.3,6,ZARA,20%,2019/6/1,194,6,2019
+1189,Casual Jeans,Female,Dress,Geometric,Sky Blue,25-35,All,86.09,Cotton Blend,279,57,3.1,3,ZARA,5%,2019/6/29,131,6,2019
+1190,Summer Dress,Male,Shorts,Floral,Yellow,25-35,Summer,123.72,Leather,301,90,4.7,2,ZARA,0%,2019/6/1,167,6,2019
+1191,Summer Dress,Female,Shirt,Plain,Yellow,35-45,Autumn,28.68,Wool,130,90,3.5,3,ZARA,5%,2019/6/28,94,6,2019
+1192,Casual Jeans,Female,Jacket,Geometric,White,25-35,Winter,69.4,Cotton Blend,246,93,4.8,6,ZARA,5%,2019/6/4,192,6,2019
+1193,Pattern Skirt,Female,Shorts,Plain,White,18-24,Summer,80.94,Viscose,211,46,3.7,1,ZARA,20%,2019/6/14,133,6,2019
+1194,Blouse,Male,Skirt,Geometric,Sky Blue,18-24,Winter,52,Leather,460,49,4.1,2,ZARA,20%,2019/6/7,176,6,2019
+1195,Summer Dress,Female,Blouse,Plain,Sky Blue,18-24,Winter,43.52,Cotton Blend,314,73,3.5,5,ZARA,10%,2019/6/17,213,6,2019
+1196,Pattern Skirt,Male,Shorts,Plain,Yellow,25-35,Autumn,102.06,Cotton Blend,93,50,4,4,ZARA,20%,2019/6/17,92,6,2019
+1197,Beach Shirt,Female,Dress,Floral,Yellow,25-35,Winter,108.69,Wool,186,77,3.6,3,ZARA,20%,2019/6/2,224,6,2019
+1198,Biker Jacket,Male,Shirt,Plain,Sky Blue,35-45,Summer,40.57,Viscose,51,64,4.3,2,ZARA,5%,2019/6/26,218,6,2019
+1199,Blouse,Male,Shorts,Polka Dots,Brown,35-45,Winter,60.46,Leather,391,53,4,1,ZARA,15%,2019/7/1,80,7,2019
+1200,Chino Shorts,Male,Dress,Polka Dots,White,35-45,Spring,96.35,Wool,84,69,4.1,4,ZARA,20%,2019/7/22,227,7,2019
+1201,Wool Jacket,Female,Dress,Polka Dots,Beige,18-24,All,133.45,Cotton Blend,318,21,3.6,5,ZARA,10%,2019/7/26,110,7,2019
+1202,Blouse,Female,Shoes,Plain,Beige,18-24,Spring,65.43,Cotton,387,88,3.6,5,ZARA,20%,2019/7/19,142,7,2019
+1203,Chino Shorts,Female,Blouse,Geometric,Beige,18-24,Winter,121.46,Cotton Blend,469,73,4.2,3,ZARA,5%,2019/7/5,201,7,2019
+1204,Heels,Male,Blouse,Geometric,Beige,18-24,Winter,88.88,Leather,440,58,4.2,5,ZARA,10%,2019/7/28,172,7,2019
+1205,Summer Dress,Male,Shorts,Polka Dots,Brown,35-45,All,55.97,Leather,68,84,4.8,5,ZARA,0%,2019/7/11,196,7,2019
+1206,Heels,Male,Jeans,Plain,Beige,25-35,Winter,94.32,Cotton,73,100,4.6,4,ZARA,5%,2019/7/5,122,7,2019
+1207,Summer Dress,Male,Blouse,Geometric,Brown,18-24,Winter,100.06,Leather,165,75,4.8,2,ZARA,5%,2019/7/1,146,7,2019
+1208,Biker Jacket,Female,Shoes,Geometric,White,18-24,Winter,35.77,Wool,137,47,3.2,1,ZARA,0%,2019/7/6,144,7,2019
+1209,Summer Dress,Female,Jeans,Geometric,White,18-24,Winter,51.94,Viscose,471,29,4.3,3,ZARA,10%,2019/7/25,79,7,2019
+1210,Summer Dress,Male,Jacket,Geometric,White,25-35,Spring,23.55,Denim,161,81,3.7,5,ZARA,10%,2019/8/4,181,8,2019
+1211,Chino Shorts,Female,Dress,Geometric,Beige,25-35,Winter,131.66,Cotton Blend,360,68,4.5,5,ZARA,10%,2019/8/25,147,8,2019
+1212,Summer Dress,Male,Jeans,Polka Dots,Beige,35-45,Autumn,111.79,Denim,426,67,3.6,2,ZARA,10%,2019/8/11,239,8,2019
+1213,Business Shirt,Female,Skirt,Plain,Brown,35-45,Autumn,59.12,Synthetic,88,63,4.3,6,ZARA,10%,2019/8/20,227,8,2019
+1214,Beach Shirt,Female,Jacket,Geometric,Brown,35-45,All,105.67,Viscose,353,26,4.1,3,ZARA,15%,2019/8/13,206,8,2019
+1215,Beach Shirt,Female,Shirt,Plain,Beige,25-35,All,69.63,Wool,118,48,5,5,ZARA,5%,2019/8/4,162,8,2019
+1216,Chino Shorts,Male,Skirt,Geometric,Brown,25-35,All,127.66,Cotton,338,40,3.7,4,ZARA,20%,2019/8/7,153,8,2019
+1217,Wool Jacket,Female,Jeans,Plain,White,25-35,Spring,99.16,Cotton,232,77,3.1,1,ZARA,15%,2019/8/24,247,8,2019
+1218,Casual Jeans,Male,Skirt,Plain,Beige,18-24,Winter,44.57,Cotton,431,94,4,5,ZARA,5%,2019/8/2,142,8,2019
+1219,Summer Dress,Male,Dress,Plain,White,25-35,All,110.99,Cotton Blend,351,54,3.9,2,ZARA,15%,2019/8/17,75,8,2019
+1220,Casual Jeans,Female,Shorts,Plain,White,25-35,All,54.68,Wool,394,22,4.5,2,ZARA,20%,2019/8/12,90,8,2019
+1221,Summer Dress,Male,Blouse,Plain,Brown,18-24,Winter,82.85,Synthetic,472,89,4.4,3,ZARA,20%,2019/9/12,77,9,2019
+1222,Beach Shirt,Female,Shoes,Plain,White,35-45,Winter,46.49,Wool,445,40,4.5,1,ZARA,15%,2019/9/7,187,9,2019
+1223,Heels,Female,Shirt,Plain,Brown,25-35,All,47.98,Wool,59,35,4.7,4,ZARA,10%,2019/9/23,232,9,2019
+1224,Beach Shirt,Female,Dress,Plain,Beige,25-35,Spring,147.19,Cotton Blend,90,52,4.1,2,ZARA,0%,2019/9/10,84,9,2019
+1225,Beach Shirt,Female,Shorts,Plain,Beige,25-35,Autumn,30.27,Viscose,494,100,4.7,5,ZARA,0%,2019/9/17,195,9,2019
+1226,Blouse,Female,Shirt,Polka Dots,Brown,35-45,Winter,146.12,Cotton Blend,122,29,3.9,5,ZARA,15%,2019/9/15,220,9,2019
+1227,Wool Jacket,Female,Skirt,Polka Dots,Brown,35-45,Autumn,62.65,Cotton Blend,80,91,4.4,4,ZARA,0%,2019/9/19,127,9,2019
+1228,Heels,Female,Shoes,Geometric,Beige,35-45,Winter,67.88,Wool,58,68,3.8,1,ZARA,5%,2019/9/18,138,9,2019
+1229,Beach Shirt,Female,Shirt,Plain,Brown,35-45,Spring,61.23,Synthetic,363,23,4.7,3,ZARA,5%,2019/9/10,134,9,2019
+1230,Casual Jeans,Female,Shorts,Polka Dots,White,18-24,Autumn,61.31,Leather,150,36,3.6,3,ZARA,5%,2019/9/15,75,9,2019
+1231,Wool Jacket,Female,Skirt,Geometric,Beige,35-45,Summer,137.54,Cotton Blend,167,70,3.5,5,ZARA,10%,2019/9/5,221,9,2019
+1232,Biker Jacket,Male,Jeans,Striped,Black,35-45,Spring,121.56,Leather,318,100,4.6,1,ZARA,20%,2019/10/2,223,10,2019
+1233,Beach Shirt,Male,Jeans,Plain,Orange,18-24,Spring,123.71,Cotton Blend,207,36,4.7,5,ZARA,5%,2019/10/19,57,10,2019
+1234,Biker Jacket,Male,Shoes,Plain,Black,18-24,Spring,71.62,Cotton,274,94,4.4,6,ZARA,0%,2019/10/4,184,10,2019
+1235,Wool Jacket,Female,Jeans,Striped,Orange,25-35,Autumn,20.8,Denim,399,32,3.5,6,ZARA,10%,2019/10/1,85,10,2019
+1236,Wool Jacket,Female,Jacket,Striped,Orange,35-45,Winter,31.9,Cotton Blend,427,28,4.7,2,ZARA,20%,2019/10/29,155,10,2019
+1237,Pattern Skirt,Male,Jacket,Striped,Orange,18-24,Autumn,48.41,Denim,395,46,4.6,3,ZARA,20%,2019/10/8,223,10,2019
+1238,Wool Jacket,Female,Dress,Striped,Black,18-24,All,127.58,Wool,153,23,3.7,1,ZARA,15%,2019/10/9,236,10,2019
+1239,Casual Jeans,Female,Blouse,Striped,Orange,35-45,Autumn,144.05,Wool,176,93,4.8,5,ZARA,20%,2019/10/22,66,10,2019
+1240,Summer Dress,Female,Shoes,Plain,Black,18-24,Autumn,86.77,Cotton Blend,400,100,3.6,6,ZARA,15%,2019/10/20,181,10,2019
+1241,Pattern Skirt,Male,Dress,Plain,Orange,18-24,Winter,45.47,Viscose,314,59,4.2,5,ZARA,10%,2019/10/29,137,10,2019
+1242,Biker Jacket,Male,Shoes,Plain,Black,18-24,Winter,39.62,Denim,376,92,4.2,1,ZARA,20%,2019/10/18,100,10,2019
+1243,Chino Shorts,Male,Skirt,Geometric,Navy Blue,18-24,Summer,36.23,Cotton Blend,207,74,4,5,ZARA,15%,2019/11/19,217,11,2019
+1244,Wool Jacket,Female,Jeans,Polka Dots,White,25-35,Winter,53.92,Denim,57,72,3.6,2,ZARA,20%,2019/11/10,147,11,2019
+1245,Biker Jacket,Female,Jacket,Polka Dots,Grey,18-24,Spring,59.72,Leather,123,32,3.5,2,ZARA,20%,2019/11/8,143,11,2019
+1246,Beach Shirt,Male,Jacket,Polka Dots,White,18-24,Summer,62.38,Denim,65,93,3.8,6,ZARA,10%,2019/11/23,126,11,2019
+1247,Wool Jacket,Female,Skirt,Geometric,White,18-24,Autumn,59,Cotton,282,47,3.1,2,ZARA,15%,2019/11/19,65,11,2019
+1248,Blouse,Female,Skirt,Geometric,Grey,18-24,Autumn,142.85,Wool,421,95,3.4,1,ZARA,20%,2019/11/24,121,11,2019
+1249,Blouse,Male,Shorts,Polka Dots,Grey,35-45,Autumn,123.73,Wool,433,24,4.2,5,ZARA,15%,2019/11/15,104,11,2019
+1250,Biker Jacket,Male,Jacket,Plain,White,25-35,Autumn,145.27,Synthetic,230,93,3.5,6,ZARA,15%,2019/11/27,200,11,2019
+1251,Wool Jacket,Male,Dress,Geometric,White,18-24,Winter,127.76,Cotton Blend,58,29,4.3,1,ZARA,10%,2019/11/13,97,11,2019
+1252,Business Shirt,Female,Shoes,Geometric,White,18-24,Spring,129.36,Wool,95,73,3.5,1,ZARA,10%,2019/11/25,194,11,2019
+1253,Wool Jacket,Male,Jeans,Plain,Navy Blue,25-35,Autumn,49.67,Viscose,205,61,4.7,5,ZARA,15%,2019/11/16,97,11,2019
+1254,Blouse,Female,Jacket,Polka Dots,White,35-45,Spring,140.89,Cotton,372,46,3.8,5,ZARA,5%,2019/12/14,248,12,2019
+1255,Heels,Female,Shorts,Geometric,Red,18-24,Spring,25.76,Synthetic,227,25,4.2,5,ZARA,5%,2019/12/20,56,12,2019
+1256,Wool Jacket,Male,Dress,Geometric,Red,25-35,Summer,129.68,Leather,254,35,4.9,4,ZARA,5%,2019/12/24,98,12,2019
+1257,Heels,Male,Blouse,Polka Dots,Green,35-45,Autumn,126.46,Synthetic,69,88,4.5,1,ZARA,15%,2019/12/5,114,12,2019
+1258,Chino Shorts,Female,Blouse,Polka Dots,Green,25-35,Winter,27.21,Denim,172,40,5,4,ZARA,10%,2019/12/13,129,12,2019
+1259,Beach Shirt,Male,Skirt,Geometric,Red,25-35,Winter,64.57,Denim,340,24,3.8,5,ZARA,5%,2019/12/22,97,12,2019
+1260,Wool Jacket,Male,Shoes,Geometric,White,35-45,Winter,134.46,Cotton,368,25,5,3,ZARA,5%,2019/12/2,54,12,2019
+1261,Casual Jeans,Female,Shirt,Geometric,Red,35-45,Autumn,43.77,Wool,453,34,3.3,2,ZARA,15%,2019/12/7,110,12,2019
+1262,Summer Dress,Female,Skirt,Geometric,Green,35-45,All,44.2,Denim,249,72,3.8,1,ZARA,5%,2019/12/17,151,12,2019
+1263,Casual Jeans,Male,Skirt,Polka Dots,Red,35-45,Autumn,75.24,Denim,308,97,3.5,6,ZARA,15%,2019/12/21,130,12,2019
+1264,Heels,Female,Dress,Geometric,Red,35-45,Spring,135.16,Cotton Blend,247,77,3.9,6,ZARA,15%,2019/12/8,72,12,2019
+1265,Blouse,Female,Shirt,Plain,White,18-24,All,78.91,Denim,405,26,4.5,2,ZARA,20%,2020/1/22,61,1,2020
+1266,Casual Jeans,Female,Skirt,Polka Dots,Beige,25-35,Winter,132.57,Cotton Blend,376,69,3.9,5,ZARA,20%,2020/1/19,216,1,2020
+1267,Pattern Skirt,Female,Blouse,Plain,Beige,25-35,Autumn,122.75,Wool,148,99,4.8,5,ZARA,20%,2020/1/11,106,1,2020
+1268,Wool Jacket,Female,Dress,Geometric,White,18-24,Winter,90.65,Synthetic,96,21,4.7,5,ZARA,0%,2020/1/13,221,1,2020
+1269,Heels,Male,Shirt,Geometric,Beige,18-24,Autumn,44.19,Cotton,123,70,4.1,5,ZARA,20%,2020/1/7,178,1,2020
+1270,Casual Jeans,Female,Skirt,Plain,Brown,35-45,Winter,105.94,Wool,215,60,3.5,4,ZARA,20%,2020/1/27,217,1,2020
+1271,Beach Shirt,Male,Skirt,Plain,White,35-45,Winter,71.01,Denim,429,82,4.6,6,ZARA,0%,2020/1/22,70,1,2020
+1272,Wool Jacket,Female,Jeans,Geometric,Brown,35-45,Spring,140.88,Synthetic,78,29,3.9,1,ZARA,10%,2020/1/17,168,1,2020
+1273,Casual Jeans,Male,Blouse,Plain,Brown,35-45,All,41.79,Cotton Blend,317,100,3.1,4,ZARA,10%,2020/1/3,177,1,2020
+1274,Pattern Skirt,Female,Shoes,Geometric,White,35-45,Summer,119.13,Viscose,479,96,4.4,3,ZARA,15%,2020/1/4,57,1,2020
+1275,Pattern Skirt,Female,Shirt,Geometric,Beige,35-45,Autumn,97.99,Wool,233,29,3.5,3,ZARA,15%,2020/1/4,110,1,2020
+1276,Beach Shirt,Male,Dress,Polka Dots,Red,25-35,All,51.45,Leather,90,69,4.3,2,ZARA,15%,2020/2/27,233,2,2020
+1277,Beach Shirt,Male,Shorts,Polka Dots,Red,18-24,Spring,37.12,Cotton,83,41,4.8,1,ZARA,20%,2020/2/20,107,2,2020
+1278,Summer Dress,Female,Jeans,Polka Dots,Red,35-45,Summer,60.86,Cotton Blend,251,46,3.8,3,ZARA,20%,2020/2/8,206,2,2020
+1279,Business Shirt,Female,Dress,Polka Dots,Red,25-35,All,47.82,Leather,400,71,3,2,ZARA,15%,2020/2/22,122,2,2020
+1280,Blouse,Female,Jeans,Polka Dots,Red,25-35,Autumn,23.65,Denim,299,89,4,6,ZARA,15%,2020/2/17,171,2,2020
+1281,Casual Jeans,Female,Dress,Plain,Pink,35-45,All,21.81,Leather,235,82,3.6,3,ZARA,10%,2020/2/17,81,2,2020
+1282,Biker Jacket,Male,Dress,Polka Dots,Pink,18-24,Spring,85.24,Denim,115,35,4.4,2,ZARA,20%,2020/2/27,193,2,2020
+1283,Business Shirt,Female,Dress,Heart,Red,35-45,Autumn,97.55,Wool,184,87,4.9,4,ZARA,15%,2020/2/13,141,2,2020
+1284,Casual Jeans,Male,Shorts,Plain,Red,25-35,Summer,74.16,Cotton Blend,347,57,4.3,4,ZARA,5%,2020/2/9,143,2,2020
+1285,Summer Dress,Female,Jacket,Heart,Red,25-35,Spring,65.22,Wool,52,90,3.8,4,ZARA,20%,2020/2/17,203,2,2020
+1286,Business Shirt,Female,Jeans,Plain,Red,25-35,All,123.63,Viscose,354,74,4.7,3,ZARA,5%,2020/2/23,158,2,2020
+1287,Wool Jacket,Female,Blouse,Plain,Beige,18-24,Autumn,25.22,Denim,335,73,4.8,1,ZARA,10%,2020/3/22,93,3,2020
+1288,Wool Jacket,Female,Skirt,Plain,Beige,35-45,Spring,139.57,Denim,207,86,4.1,2,ZARA,0%,2020/3/28,140,3,2020
+1289,Beach Shirt,Female,Jeans,Geometric,Beige,35-45,Autumn,52.77,Wool,212,95,3.5,5,ZARA,20%,2020/3/13,102,3,2020
+1290,Business Shirt,Female,Shoes,Plain,White,35-45,Spring,83.44,Viscose,298,52,4,3,ZARA,15%,2020/3/4,83,3,2020
+1291,Business Shirt,Male,Jacket,Geometric,Beige,25-35,Spring,123.4,Cotton Blend,367,84,3.8,2,ZARA,15%,2020/3/19,145,3,2020
+1292,Beach Shirt,Male,Shirt,Polka Dots,White,35-45,All,148.9,Cotton Blend,366,75,4.1,3,ZARA,0%,2020/3/26,189,3,2020
+1293,Casual Jeans,Female,Shoes,Geometric,Beige,18-24,Winter,73.63,Leather,346,98,4.2,4,ZARA,15%,2020/3/4,164,3,2020
+1294,Chino Shorts,Male,Skirt,Plain,White,18-24,All,52.52,Cotton,465,70,3.4,3,ZARA,5%,2020/3/15,125,3,2020
+1295,Blouse,Male,Skirt,Geometric,Beige,25-35,Summer,134.33,Wool,309,82,3.2,6,ZARA,10%,2020/3/24,142,3,2020
+1296,Pattern Skirt,Female,Jacket,Plain,Beige,35-45,Summer,82.69,Wool,164,35,4.2,5,ZARA,20%,2020/3/16,236,3,2020
+1297,Blouse,Male,Jeans,Polka Dots,White,25-35,Spring,137.67,Synthetic,416,76,3.9,4,ZARA,10%,2020/3/20,220,3,2020
+1298,Chino Shorts,Female,Jacket,Geometric,Brown,25-35,Spring,149.93,Cotton,130,27,3.6,5,ZARA,20%,2020/4/3,196,4,2020
+1299,Summer Dress,Female,Dress,Polka Dots,Beige,35-45,Spring,66.92,Cotton,276,36,3.9,4,ZARA,5%,2020/4/9,145,4,2020
+1300,Heels,Female,Blouse,Plain,Brown,18-24,All,64.85,Synthetic,138,36,4.4,3,ZARA,10%,2020/4/22,196,4,2020
+1301,Heels,Female,Blouse,Geometric,Beige,18-24,All,123.36,Cotton,423,88,3.1,2,ZARA,5%,2020/4/1,83,4,2020
+1302,Business Shirt,Male,Shirt,Geometric,Beige,25-35,Autumn,90.65,Cotton Blend,472,23,4.7,2,ZARA,20%,2020/4/9,84,4,2020
+1303,Blouse,Male,Shorts,Polka Dots,Brown,35-45,Winter,98.37,Cotton Blend,190,41,4.1,1,ZARA,5%,2020/4/2,67,4,2020
+1304,Business Shirt,Male,Shoes,Polka Dots,White,35-45,All,54.18,Denim,464,53,3.6,4,ZARA,20%,2020/4/18,95,4,2020
+1305,Business Shirt,Male,Dress,Geometric,Beige,18-24,Spring,101.3,Synthetic,73,81,4.2,1,ZARA,5%,2020/4/28,130,4,2020
+1306,Summer Dress,Male,Dress,Plain,Beige,18-24,Winter,79.6,Cotton Blend,53,61,4.1,2,ZARA,0%,2020/4/19,170,4,2020
+1307,Blouse,Female,Shorts,Geometric,Beige,35-45,Summer,142.18,Denim,361,34,4.1,6,ZARA,0%,2020/4/19,175,4,2020
+1308,Chino Shorts,Female,Shoes,Polka Dots,Beige,18-24,Spring,66.6,Leather,195,50,4.3,6,ZARA,15%,2020/4/5,131,4,2020
+1309,Casual Jeans,Female,Jeans,Polka Dots,White,35-45,Spring,41.96,Denim,442,84,4.2,2,ZARA,15%,2020/5/16,88,5,2020
+1310,Wool Jacket,Female,Skirt,Plain,Brown,35-45,Summer,20.47,Viscose,69,30,3.9,4,ZARA,20%,2020/5/22,96,5,2020
+1311,Business Shirt,Female,Skirt,Plain,White,25-35,Summer,129.27,Synthetic,348,93,4.3,1,ZARA,20%,2020/5/28,57,5,2020
+1312,Pattern Skirt,Male,Shoes,Polka Dots,White,18-24,Summer,122.92,Synthetic,344,49,3.3,4,ZARA,20%,2020/5/9,143,5,2020
+1313,Business Shirt,Female,Shirt,Geometric,Beige,18-24,All,84.11,Cotton,279,32,4.8,4,ZARA,5%,2020/5/7,81,5,2020
+1314,Chino Shorts,Male,Blouse,Geometric,White,25-35,Autumn,79.31,Cotton Blend,482,60,4.2,4,ZARA,10%,2020/5/11,181,5,2020
+1315,Summer Dress,Female,Dress,Plain,Brown,18-24,Autumn,26.16,Cotton Blend,382,43,4.7,3,ZARA,0%,2020/5/29,119,5,2020
+1316,Chino Shorts,Male,Jacket,Geometric,White,18-24,Winter,66.44,Denim,135,95,4,3,ZARA,20%,2020/5/9,243,5,2020
+1317,Chino Shorts,Female,Shorts,Geometric,Brown,35-45,All,29.8,Cotton Blend,381,84,4.5,3,ZARA,20%,2020/5/18,188,5,2020
+1318,Pattern Skirt,Female,Blouse,Polka Dots,Brown,18-24,Winter,47.07,Synthetic,221,38,3.9,1,ZARA,20%,2020/5/16,159,5,2020
+1319,Summer Dress,Male,Jacket,Polka Dots,Brown,25-35,Autumn,116.55,Leather,202,79,3.5,3,ZARA,15%,2020/5/2,86,5,2020
+1320,Blouse,Male,Shorts,Floral,Yellow,35-45,Summer,35.78,Viscose,140,89,4.6,2,ZARA,20%,2020/6/6,221,6,2020
+1321,Beach Shirt,Female,Shirt,Geometric,Sky Blue,25-35,Spring,99.43,Synthetic,349,92,3.8,1,ZARA,15%,2020/6/14,108,6,2020
+1322,Summer Dress,Female,Blouse,Floral,Sky Blue,18-24,Spring,145.08,Synthetic,423,68,4.4,6,ZARA,20%,2020/6/28,197,6,2020
+1323,Chino Shorts,Female,Jeans,Floral,Yellow,35-45,Autumn,34.62,Cotton Blend,351,59,4.9,4,ZARA,15%,2020/6/29,81,6,2020
+1324,Chino Shorts,Male,Blouse,Geometric,White,25-35,Spring,109.5,Viscose,269,65,4.8,2,ZARA,0%,2020/6/18,116,6,2020
+1325,Pattern Skirt,Female,Dress,Floral,Sky Blue,35-45,Spring,64.8,Leather,230,29,3.4,3,ZARA,0%,2020/6/20,60,6,2020
+1326,Chino Shorts,Female,Jeans,Plain,White,18-24,Winter,99.08,Cotton Blend,488,64,4,6,ZARA,20%,2020/6/27,83,6,2020
+1327,Pattern Skirt,Female,Jeans,Plain,White,18-24,Spring,30.66,Viscose,172,87,5,6,ZARA,15%,2020/6/29,99,6,2020
+1328,Casual Jeans,Male,Jeans,Floral,Yellow,18-24,All,40.83,Denim,50,33,3.8,1,ZARA,5%,2020/6/27,173,6,2020
+1329,Blouse,Female,Jeans,Floral,Yellow,25-35,Autumn,132.92,Cotton Blend,51,89,3.5,4,ZARA,0%,2020/6/29,110,6,2020
+1330,Wool Jacket,Female,Jeans,Floral,Sky Blue,18-24,Winter,82.57,Denim,206,85,3.5,6,ZARA,15%,2020/6/29,232,6,2020
+1331,Biker Jacket,Male,Shirt,Geometric,White,18-24,Winter,62.53,Synthetic,404,88,4.4,5,ZARA,20%,2020/7/20,103,7,2020
+1332,Summer Dress,Male,Blouse,Polka Dots,Beige,18-24,Winter,125.06,Cotton Blend,79,63,4.4,3,ZARA,10%,2020/7/9,128,7,2020
+1333,Heels,Male,Shorts,Plain,Brown,25-35,Autumn,121.47,Cotton,371,53,3.4,6,ZARA,15%,2020/7/20,72,7,2020
+1334,Biker Jacket,Male,Skirt,Geometric,Brown,18-24,All,74.01,Cotton,396,74,3.1,3,ZARA,0%,2020/7/1,200,7,2020
+1335,Heels,Male,Skirt,Polka Dots,Brown,18-24,Winter,108.09,Viscose,453,63,4.2,5,ZARA,5%,2020/7/23,162,7,2020
+1336,Summer Dress,Male,Dress,Polka Dots,Beige,35-45,Spring,71.1,Cotton,137,49,3.6,3,ZARA,20%,2020/7/23,168,7,2020
+1337,Biker Jacket,Female,Jacket,Geometric,Brown,18-24,All,93.03,Denim,202,96,3.9,1,ZARA,5%,2020/7/27,171,7,2020
+1338,Summer Dress,Female,Jeans,Polka Dots,White,35-45,Winter,22.22,Leather,136,80,3.2,6,ZARA,5%,2020/7/5,106,7,2020
+1339,Business Shirt,Male,Shirt,Geometric,Beige,18-24,Spring,58.79,Synthetic,440,21,3.2,2,ZARA,10%,2020/7/6,187,7,2020
+1340,Heels,Female,Dress,Plain,Brown,18-24,Spring,132.53,Leather,184,96,4.3,3,ZARA,5%,2020/7/8,153,7,2020
+1341,Chino Shorts,Female,Jeans,Geometric,White,35-45,All,99.2,Cotton,242,30,4.2,1,ZARA,0%,2020/7/4,108,7,2020
+1342,Business Shirt,Female,Jacket,Plain,Beige,18-24,Winter,110.22,Denim,435,37,4.8,6,ZARA,15%,2020/8/10,102,8,2020
+1343,Casual Jeans,Male,Shirt,Geometric,Beige,18-24,Summer,74.02,Wool,432,69,3.2,1,ZARA,20%,2020/8/27,243,8,2020
+1344,Chino Shorts,Female,Blouse,Geometric,White,18-24,All,32,Leather,177,24,3.4,4,ZARA,10%,2020/8/5,180,8,2020
+1345,Wool Jacket,Male,Shirt,Polka Dots,Brown,18-24,Autumn,138.1,Cotton Blend,263,86,4.2,5,ZARA,15%,2020/8/7,132,8,2020
+1346,Chino Shorts,Male,Dress,Geometric,Brown,35-45,All,116.27,Wool,128,42,4.3,6,ZARA,15%,2020/8/19,210,8,2020
+1347,Heels,Female,Shorts,Polka Dots,Beige,25-35,Autumn,110.13,Denim,247,87,3.4,2,ZARA,10%,2020/8/14,129,8,2020
+1348,Chino Shorts,Male,Jacket,Geometric,Brown,25-35,Autumn,130.9,Viscose,447,60,5,5,ZARA,5%,2020/8/27,236,8,2020
+1349,Pattern Skirt,Female,Jeans,Plain,Brown,25-35,Winter,106.93,Denim,419,38,3.5,2,ZARA,15%,2020/8/17,245,8,2020
+1350,Chino Shorts,Male,Jeans,Plain,Brown,18-24,All,135.47,Cotton Blend,132,64,4.1,5,ZARA,10%,2020/8/21,180,8,2020
+1351,Wool Jacket,Male,Shirt,Plain,Beige,35-45,Winter,78.8,Cotton,64,64,3.1,3,ZARA,5%,2020/8/29,56,8,2020
+1352,Wool Jacket,Female,Shorts,Geometric,Beige,25-35,All,29.65,Viscose,148,75,4.6,4,ZARA,20%,2020/8/1,242,8,2020
+1353,Wool Jacket,Male,Shirt,Polka Dots,White,35-45,Autumn,120.88,Synthetic,332,63,4.3,2,ZARA,20%,2020/9/23,249,9,2020
+1354,Casual Jeans,Male,Skirt,Geometric,White,25-35,All,98.55,Denim,440,74,4.9,2,ZARA,20%,2020/9/7,57,9,2020
+1355,Summer Dress,Female,Shorts,Plain,Beige,18-24,Summer,92.21,Synthetic,172,43,3.2,5,ZARA,10%,2020/9/17,57,9,2020
+1356,Summer Dress,Female,Shorts,Geometric,Beige,35-45,Summer,121.72,Wool,391,76,3.2,3,ZARA,5%,2020/9/12,191,9,2020
+1357,Pattern Skirt,Female,Shorts,Geometric,Beige,18-24,Spring,108.21,Cotton Blend,405,88,3.5,3,ZARA,20%,2020/9/13,141,9,2020
+1358,Pattern Skirt,Female,Skirt,Polka Dots,Beige,25-35,Autumn,146.25,Denim,220,88,3.9,4,ZARA,5%,2020/9/29,77,9,2020
+1359,Blouse,Female,Shirt,Plain,White,18-24,Winter,64.93,Wool,310,78,3.4,4,ZARA,0%,2020/9/18,78,9,2020
+1360,Beach Shirt,Male,Shoes,Polka Dots,Brown,35-45,Summer,134.78,Synthetic,259,54,4.2,2,ZARA,0%,2020/9/19,182,9,2020
+1361,Beach Shirt,Female,Dress,Geometric,Beige,35-45,Summer,76.48,Cotton,463,32,4.4,1,ZARA,15%,2020/9/20,59,9,2020
+1362,Summer Dress,Female,Shorts,Geometric,White,18-24,All,108.44,Synthetic,298,61,4.3,1,ZARA,5%,2020/9/2,204,9,2020
+1363,Heels,Male,Dress,Polka Dots,Brown,35-45,Spring,84.47,Cotton Blend,76,53,3.1,1,ZARA,15%,2020/9/5,169,9,2020
+1364,Beach Shirt,Female,Shoes,Plain,Orange,18-24,Autumn,87.73,Leather,429,58,4.3,1,ZARA,5%,2020/10/18,204,10,2020
+1365,Wool Jacket,Female,Shirt,Plain,Orange,35-45,All,142.56,Denim,109,33,3.9,4,ZARA,15%,2020/10/7,181,10,2020
+1366,Heels,Male,Shorts,Striped,Black,25-35,Spring,55.19,Wool,442,30,3.4,5,ZARA,10%,2020/10/27,220,10,2020
+1367,Pattern Skirt,Female,Shirt,Striped,Orange,25-35,All,69.87,Denim,319,46,4.6,3,ZARA,0%,2020/10/11,91,10,2020
+1368,Business Shirt,Male,Shirt,Striped,Black,18-24,Summer,94.24,Leather,201,48,4.7,5,ZARA,5%,2020/10/11,67,10,2020
+1369,Beach Shirt,Female,Shoes,Striped,Orange,35-45,All,38.17,Denim,497,50,3.7,4,ZARA,0%,2020/10/5,88,10,2020
+1370,Chino Shorts,Female,Shirt,Striped,Black,18-24,Winter,34.47,Cotton Blend,97,59,4.6,1,ZARA,0%,2020/10/11,94,10,2020
+1371,Casual Jeans,Female,Blouse,Striped,Orange,18-24,Winter,95.19,Leather,411,47,4.9,2,ZARA,10%,2020/10/28,96,10,2020
+1372,Biker Jacket,Male,Shirt,Striped,Orange,35-45,Spring,74.25,Denim,220,41,4.7,6,ZARA,15%,2020/10/27,146,10,2020
+1373,Heels,Male,Dress,Striped,Black,18-24,Winter,108.42,Wool,296,60,3.5,6,ZARA,10%,2020/10/26,114,10,2020
+1374,Blouse,Male,Shirt,Plain,Black,25-35,Spring,64.78,Leather,499,24,3.8,3,ZARA,5%,2020/10/28,156,10,2020
+1375,Biker Jacket,Male,Jacket,Plain,Navy Blue,25-35,Summer,127.76,Cotton Blend,191,23,4.6,2,ZARA,20%,2020/11/3,205,11,2020
+1376,Summer Dress,Female,Shoes,Geometric,Navy Blue,18-24,Spring,57.45,Leather,345,71,4.8,2,ZARA,15%,2020/11/28,57,11,2020
+1377,Biker Jacket,Male,Shirt,Polka Dots,Grey,18-24,Spring,106.5,Synthetic,62,47,3.2,3,ZARA,5%,2020/11/11,206,11,2020
+1378,Summer Dress,Female,Shirt,Geometric,Navy Blue,35-45,Spring,103.44,Cotton Blend,147,58,4.3,5,ZARA,5%,2020/11/21,186,11,2020
+1379,Blouse,Female,Dress,Polka Dots,White,25-35,All,35.6,Leather,176,72,4.4,3,ZARA,20%,2020/11/29,79,11,2020
+1380,Biker Jacket,Male,Blouse,Polka Dots,White,18-24,Spring,81.62,Leather,316,51,4.8,2,ZARA,10%,2020/11/2,88,11,2020
+1381,Blouse,Male,Jeans,Geometric,Grey,25-35,All,100.54,Cotton Blend,109,77,3.3,3,ZARA,5%,2020/11/10,68,11,2020
+1382,Pattern Skirt,Male,Blouse,Geometric,Grey,35-45,Summer,123.72,Leather,234,68,4.7,1,ZARA,15%,2020/11/24,99,11,2020
+1383,Chino Shorts,Male,Skirt,Polka Dots,Grey,18-24,All,147.91,Wool,90,41,4.5,6,ZARA,10%,2020/11/18,99,11,2020
+1384,Chino Shorts,Male,Shorts,Geometric,Navy Blue,18-24,Spring,144.37,Synthetic,488,51,4.2,4,ZARA,10%,2020/11/26,141,11,2020
+1385,Heels,Female,Skirt,Geometric,Grey,35-45,Spring,86.88,Wool,145,100,4.2,6,ZARA,20%,2020/11/9,241,11,2020
+1386,Summer Dress,Male,Skirt,Polka Dots,Red,18-24,Winter,53.58,Leather,52,42,4,5,ZARA,5%,2020/12/5,148,12,2020
+1387,Summer Dress,Female,Skirt,Geometric,White,18-24,All,34.03,Leather,382,65,3.1,2,ZARA,15%,2020/12/24,95,12,2020
+1388,Business Shirt,Male,Skirt,Geometric,White,18-24,Autumn,53.93,Wool,487,95,4,4,ZARA,10%,2020/12/24,246,12,2020
+1389,Casual Jeans,Female,Blouse,Plain,White,18-24,All,100.93,Cotton,185,48,4.4,6,ZARA,10%,2020/12/21,152,12,2020
+1390,Business Shirt,Female,Jacket,Plain,Red,25-35,Summer,146.17,Cotton Blend,134,32,4.8,2,ZARA,0%,2020/12/27,227,12,2020
+1391,Chino Shorts,Female,Dress,Geometric,Red,25-35,All,104.69,Wool,108,74,4.9,6,ZARA,5%,2020/12/16,226,12,2020
+1392,Chino Shorts,Female,Jeans,Plain,Red,35-45,Winter,134.44,Synthetic,457,63,3.7,4,ZARA,5%,2020/12/14,119,12,2020
+1393,Wool Jacket,Male,Jacket,Geometric,White,35-45,Summer,91.87,Wool,346,82,3.7,1,ZARA,5%,2020/12/11,244,12,2020
+1394,Blouse,Male,Blouse,Geometric,Green,25-35,Winter,80.54,Viscose,301,89,4.1,6,ZARA,15%,2020/12/21,242,12,2020
+1395,Blouse,Male,Shirt,Plain,Red,35-45,Summer,57.66,Cotton Blend,257,77,4.9,6,ZARA,15%,2020/12/17,65,12,2020
+1396,Wool Jacket,Female,Shorts,Plain,Red,35-45,Autumn,86.91,Denim,233,86,3,1,ZARA,10%,2020/12/3,218,12,2020
+1397,Heels,Male,Dress,Polka Dots,Brown,35-45,Spring,112.68,Cotton,387,94,4.2,5,ZARA,5%,2021/1/14,143,1,2021
+1398,Summer Dress,Female,Shorts,Polka Dots,Brown,35-45,Winter,138.97,Denim,242,46,4.2,2,ZARA,20%,2021/1/17,110,1,2021
+1399,Wool Jacket,Female,Shoes,Plain,Brown,18-24,Winter,124.67,Cotton Blend,57,69,4.5,5,ZARA,5%,2021/1/6,178,1,2021
+1400,Blouse,Female,Dress,Plain,Beige,18-24,Spring,56.19,Cotton Blend,125,21,4.5,2,ZARA,5%,2021/1/4,160,1,2021
+1401,Blouse,Male,Jacket,Geometric,Brown,35-45,All,91.5,Viscose,127,35,4.1,4,ZARA,0%,2021/1/14,52,1,2021
+1402,Chino Shorts,Male,Shorts,Polka Dots,Brown,25-35,All,93.4,Synthetic,233,26,3.3,6,ZARA,20%,2021/1/5,64,1,2021
+1403,Business Shirt,Female,Skirt,Plain,White,18-24,Spring,146.87,Cotton,215,27,4.5,3,ZARA,15%,2021/1/16,242,1,2021
+1404,Business Shirt,Female,Skirt,Plain,White,25-35,Summer,139.13,Denim,178,95,4.5,5,ZARA,15%,2021/1/7,145,1,2021
+1405,Chino Shorts,Female,Blouse,Plain,Brown,18-24,Autumn,72.96,Viscose,144,83,3.1,6,ZARA,20%,2021/1/15,100,1,2021
+1406,Beach Shirt,Male,Blouse,Plain,Brown,18-24,All,40.8,Viscose,297,74,4.7,2,ZARA,15%,2021/1/22,160,1,2021
+1407,Summer Dress,Male,Skirt,Geometric,White,25-35,Autumn,34.39,Cotton Blend,69,97,4,6,ZARA,20%,2021/1/15,209,1,2021
+1408,Wool Jacket,Female,Shorts,Heart,Red,18-24,Spring,149.5,Synthetic,64,78,3.4,1,ZARA,5%,2021/2/15,69,2,2021
+1409,Beach Shirt,Male,Jacket,Heart,Pink,25-35,Winter,43.96,Wool,500,57,4.1,6,ZARA,20%,2021/2/4,125,2,2021
+1410,Summer Dress,Male,Blouse,Plain,Pink,35-45,Summer,69.66,Wool,369,97,4.3,6,ZARA,20%,2021/3/1,244,2,2021
+1411,Blouse,Female,Shorts,Polka Dots,Pink,25-35,Spring,43.5,Leather,471,59,3.9,4,ZARA,20%,2021/2/6,90,2,2021
+1412,Pattern Skirt,Male,Shoes,Plain,Pink,25-35,All,116.24,Cotton,232,55,3.6,1,ZARA,10%,2021/2/24,206,2,2021
+1413,Beach Shirt,Male,Dress,Polka Dots,Red,18-24,Summer,77.61,Leather,89,64,3.9,5,ZARA,0%,2021/2/18,134,2,2021
+1414,Beach Shirt,Male,Blouse,Heart,Pink,25-35,All,135.85,Wool,249,97,5,2,ZARA,20%,2021/2/27,132,2,2021
+1415,Wool Jacket,Male,Dress,Heart,Red,18-24,Winter,120.86,Leather,337,58,3.8,3,ZARA,15%,2021/3/1,203,2,2021
+1416,Pattern Skirt,Female,Shoes,Plain,Pink,18-24,All,28.27,Denim,352,97,4.5,1,ZARA,5%,2021/2/18,83,2,2021
+1417,Casual Jeans,Male,Shorts,Heart,Red,35-45,Winter,126.91,Cotton Blend,167,39,3.7,2,ZARA,20%,2021/2/15,168,2,2021
+1418,Heels,Female,Skirt,Plain,Pink,18-24,Winter,111.59,Cotton Blend,430,47,3.6,1,ZARA,10%,2021/2/15,222,2,2021
+1419,Summer Dress,Female,Skirt,Plain,Brown,25-35,Autumn,97.87,Viscose,239,89,4,6,ZARA,5%,2021/3/17,162,3,2021
+1420,Summer Dress,Female,Jacket,Geometric,Brown,25-35,Summer,42.59,Cotton,140,54,3.9,3,ZARA,10%,2021/3/25,205,3,2021
+1421,Beach Shirt,Female,Jacket,Polka Dots,Brown,35-45,All,135.93,Cotton,417,76,4.3,3,ZARA,15%,2021/3/12,150,3,2021
+1422,Chino Shorts,Female,Shoes,Polka Dots,White,35-45,Summer,82.07,Cotton,209,66,4.2,6,ZARA,10%,2021/3/26,210,3,2021
+1423,Business Shirt,Female,Dress,Geometric,Beige,18-24,Autumn,135.4,Denim,184,65,4.5,6,ZARA,10%,2021/3/2,139,3,2021
+1424,Beach Shirt,Female,Jacket,Polka Dots,Brown,18-24,Autumn,88.69,Denim,329,42,4.1,4,ZARA,20%,2021/3/20,239,3,2021
+1425,Blouse,Male,Shirt,Geometric,Beige,35-45,Autumn,88.43,Leather,486,34,5,2,ZARA,20%,2021/3/16,223,3,2021
+1426,Casual Jeans,Female,Shoes,Polka Dots,Brown,18-24,Summer,66.51,Cotton Blend,296,46,3.2,3,ZARA,10%,2021/3/9,118,3,2021
+1427,Blouse,Male,Shirt,Plain,White,25-35,Summer,65.13,Viscose,321,69,4.5,3,ZARA,15%,2021/3/18,194,3,2021
+1428,Business Shirt,Male,Skirt,Plain,Beige,25-35,Spring,51.93,Denim,471,67,3.1,2,ZARA,20%,2021/3/26,204,3,2021
+1429,Biker Jacket,Female,Skirt,Plain,Brown,18-24,Spring,130.06,Wool,291,63,3.4,2,ZARA,15%,2021/3/1,100,3,2021
+1430,Beach Shirt,Male,Skirt,Geometric,Beige,35-45,Autumn,104.3,Synthetic,429,27,4.1,5,ZARA,10%,2021/4/18,54,4,2021
+1431,Biker Jacket,Male,Blouse,Geometric,White,25-35,All,140.88,Cotton,93,99,4.2,4,ZARA,15%,2021/4/14,173,4,2021
+1432,Chino Shorts,Female,Blouse,Plain,White,25-35,Autumn,82.62,Wool,463,74,3.3,2,ZARA,20%,2021/4/20,90,4,2021
+1433,Summer Dress,Male,Shoes,Plain,White,35-45,All,57.29,Viscose,106,81,4.9,2,ZARA,0%,2021/4/20,136,4,2021
+1434,Beach Shirt,Male,Shoes,Geometric,Brown,25-35,Spring,79.07,Denim,79,71,3.8,2,ZARA,15%,2021/4/24,216,4,2021
+1435,Biker Jacket,Female,Blouse,Polka Dots,Brown,25-35,Spring,138.91,Cotton Blend,500,70,4.9,6,ZARA,0%,2021/4/15,159,4,2021
+1436,Summer Dress,Male,Skirt,Plain,Brown,25-35,Winter,23.37,Denim,247,96,3.6,2,ZARA,5%,2021/4/6,236,4,2021
+1437,Casual Jeans,Female,Blouse,Plain,White,18-24,Summer,104.61,Viscose,127,65,4.6,2,ZARA,20%,2021/4/12,92,4,2021
+1438,Pattern Skirt,Female,Shoes,Plain,Brown,18-24,Spring,135.97,Leather,453,24,4.8,2,ZARA,20%,2021/4/8,179,4,2021
+1439,Summer Dress,Male,Blouse,Geometric,White,35-45,Spring,119.28,Cotton Blend,89,67,4.2,2,ZARA,0%,2021/4/6,151,4,2021
+1440,Wool Jacket,Female,Jacket,Plain,Beige,25-35,All,113.44,Wool,149,26,3.3,2,ZARA,0%,2021/4/24,186,4,2021
+1441,Summer Dress,Male,Shorts,Polka Dots,White,35-45,Summer,79.32,Cotton Blend,124,52,4.2,1,ZARA,10%,2021/5/2,160,5,2021
+1442,Business Shirt,Female,Shoes,Polka Dots,Brown,25-35,All,81.76,Leather,220,50,4.4,5,ZARA,20%,2021/5/2,91,5,2021
+1443,Blouse,Male,Dress,Polka Dots,White,35-45,Winter,111.33,Synthetic,258,88,3.3,5,ZARA,15%,2021/5/6,136,5,2021
+1444,Beach Shirt,Female,Jeans,Geometric,Beige,35-45,Autumn,35.14,Cotton Blend,214,98,4.7,6,ZARA,5%,2021/5/20,161,5,2021
+1445,Casual Jeans,Male,Skirt,Geometric,Beige,18-24,Summer,134.78,Cotton,342,44,3.7,1,ZARA,0%,2021/5/4,99,5,2021
+1446,Chino Shorts,Female,Jacket,Plain,Brown,35-45,Autumn,26.38,Leather,218,35,4.5,6,ZARA,10%,2021/5/6,246,5,2021
+1447,Business Shirt,Female,Skirt,Plain,Beige,25-35,All,79.85,Wool,126,86,3.6,2,ZARA,0%,2021/5/11,236,5,2021
+1448,Casual Jeans,Male,Shoes,Polka Dots,Brown,25-35,Summer,121.54,Leather,165,36,3.3,4,ZARA,5%,2021/5/22,195,5,2021
+1449,Business Shirt,Female,Dress,Plain,Brown,18-24,Winter,113.01,Cotton,257,82,3.3,2,ZARA,5%,2021/5/15,88,5,2021
+1450,Summer Dress,Male,Shirt,Polka Dots,White,35-45,Winter,143.95,Viscose,295,50,3.6,3,ZARA,5%,2021/5/18,138,5,2021
+1451,Pattern Skirt,Male,Shoes,Polka Dots,Beige,35-45,Autumn,25.84,Denim,409,24,4.9,1,ZARA,15%,2021/5/5,116,5,2021
+1452,Wool Jacket,Female,Jeans,Geometric,Yellow,18-24,Spring,87.19,Viscose,281,42,4.4,4,ZARA,10%,2021/6/11,200,6,2021
+1453,Summer Dress,Male,Jeans,Geometric,Sky Blue,35-45,Autumn,85.62,Denim,269,49,4.9,6,ZARA,15%,2021/6/19,116,6,2021
+1454,Blouse,Female,Jeans,Geometric,Sky Blue,18-24,Summer,46.24,Cotton,111,69,5,5,ZARA,20%,2021/6/5,161,6,2021
+1455,Blouse,Male,Skirt,Floral,Yellow,25-35,Summer,68.55,Denim,52,45,3,6,ZARA,20%,2021/6/10,206,6,2021
+1456,Casual Jeans,Male,Dress,Geometric,White,35-45,Summer,47.61,Cotton Blend,126,65,3.1,2,ZARA,20%,2021/6/9,172,6,2021
+1457,Wool Jacket,Male,Shorts,Geometric,Sky Blue,25-35,Winter,32.05,Leather,62,46,3.4,5,ZARA,0%,2021/6/8,83,6,2021
+1458,Wool Jacket,Male,Dress,Floral,Yellow,18-24,Spring,59.67,Denim,207,87,3.9,2,ZARA,0%,2021/6/15,174,6,2021
+1459,Beach Shirt,Female,Shirt,Plain,White,18-24,Winter,93.11,Wool,386,40,3.5,1,ZARA,0%,2021/6/24,71,6,2021
+1460,Casual Jeans,Male,Shoes,Plain,White,25-35,Winter,32.89,Viscose,182,84,3.5,6,ZARA,20%,2021/6/11,196,6,2021
+1461,Wool Jacket,Female,Dress,Plain,Sky Blue,25-35,Autumn,144.33,Synthetic,74,76,4.4,1,ZARA,20%,2021/6/7,187,6,2021
+1462,Heels,Male,Blouse,Plain,White,18-24,All,61.4,Leather,278,90,3.8,3,ZARA,0%,2021/6/19,190,6,2021
+1463,Summer Dress,Female,Jacket,Polka Dots,Beige,25-35,Winter,67.35,Synthetic,86,95,3.9,4,ZARA,10%,2021/7/12,156,7,2021
+1464,Beach Shirt,Female,Skirt,Geometric,Brown,18-24,Summer,67.32,Leather,382,35,4.4,5,ZARA,0%,2021/7/16,124,7,2021
+1465,Pattern Skirt,Male,Skirt,Polka Dots,Beige,35-45,Spring,109.14,Cotton,329,67,3.4,2,ZARA,0%,2021/7/27,116,7,2021
+1466,Pattern Skirt,Female,Jacket,Plain,Beige,35-45,All,137.5,Cotton,350,54,3.7,5,ZARA,0%,2021/7/27,239,7,2021
+1467,Casual Jeans,Male,Jacket,Geometric,White,18-24,Summer,63.96,Viscose,246,59,3.8,1,ZARA,0%,2021/7/29,83,7,2021
+1468,Wool Jacket,Female,Shirt,Plain,Beige,35-45,All,27.71,Denim,442,56,4.3,1,ZARA,0%,2021/7/10,188,7,2021
+1469,Wool Jacket,Female,Shoes,Plain,Brown,35-45,All,80.77,Denim,196,55,4.5,2,ZARA,20%,2021/7/27,193,7,2021
+1470,Beach Shirt,Female,Skirt,Polka Dots,White,35-45,Autumn,105.83,Synthetic,389,86,4.8,3,ZARA,5%,2021/7/14,138,7,2021
+1471,Pattern Skirt,Male,Shirt,Polka Dots,White,25-35,All,139.31,Viscose,494,72,4.7,4,ZARA,15%,2021/7/4,51,7,2021
+1472,Casual Jeans,Female,Blouse,Geometric,White,35-45,All,144.87,Cotton,69,72,4.3,5,ZARA,20%,2021/7/21,100,7,2021
+1473,Summer Dress,Male,Shirt,Polka Dots,Brown,25-35,Autumn,49.97,Cotton,127,97,3.9,6,ZARA,5%,2021/7/20,157,7,2021
+1474,Heels,Female,Jacket,Geometric,Beige,35-45,All,60.77,Viscose,488,70,3.9,6,ZARA,10%,2021/8/9,63,8,2021
+1475,Biker Jacket,Female,Blouse,Plain,White,18-24,Spring,40.97,Cotton,120,22,4.5,1,ZARA,0%,2021/8/6,215,8,2021
+1476,Casual Jeans,Male,Skirt,Plain,Beige,18-24,All,90.99,Synthetic,110,77,3.7,5,ZARA,15%,2021/8/13,166,8,2021
+1477,Biker Jacket,Female,Dress,Plain,White,35-45,Summer,53.26,Synthetic,272,48,4.5,1,ZARA,5%,2021/8/14,229,8,2021
+1478,Beach Shirt,Male,Blouse,Geometric,Brown,35-45,All,76.2,Cotton Blend,476,88,3.6,3,ZARA,20%,2021/8/29,168,8,2021
+1479,Casual Jeans,Male,Shorts,Polka Dots,Beige,25-35,Autumn,116.01,Wool,465,86,4.6,5,ZARA,10%,2021/8/3,234,8,2021
+1480,Business Shirt,Male,Jeans,Plain,White,25-35,Autumn,42.82,Cotton,178,79,3.9,4,ZARA,15%,2021/8/25,132,8,2021
+1481,Business Shirt,Male,Shoes,Geometric,Brown,25-35,Summer,27.73,Cotton Blend,350,70,5,2,ZARA,15%,2021/8/23,129,8,2021
+1482,Biker Jacket,Male,Shorts,Polka Dots,Brown,25-35,All,76.45,Cotton,295,84,4.8,1,ZARA,20%,2021/8/16,235,8,2021
+1483,Wool Jacket,Female,Jacket,Geometric,Brown,18-24,Winter,129.15,Leather,279,47,4.3,2,ZARA,20%,2021/8/3,214,8,2021
+1484,Chino Shorts,Female,Skirt,Polka Dots,White,35-45,Summer,133.51,Cotton Blend,99,89,4.8,5,ZARA,10%,2021/8/17,50,8,2021
+1485,Beach Shirt,Female,Shoes,Geometric,Beige,35-45,Autumn,84.23,Viscose,473,47,3.9,4,ZARA,5%,2021/9/5,193,9,2021
+1486,Casual Jeans,Male,Shoes,Geometric,White,35-45,Winter,116.79,Wool,218,58,3.7,2,ZARA,5%,2021/9/14,210,9,2021
+1487,Blouse,Female,Blouse,Plain,White,25-35,Autumn,140.74,Denim,145,67,4.9,3,ZARA,10%,2021/9/26,73,9,2021
+1488,Beach Shirt,Male,Blouse,Geometric,White,35-45,Winter,40.37,Cotton,299,50,3.7,1,ZARA,15%,2021/9/15,224,9,2021
+1489,Blouse,Female,Jacket,Polka Dots,White,18-24,Summer,80.93,Leather,354,47,4.3,5,ZARA,20%,2021/9/20,141,9,2021
+1490,Blouse,Male,Shirt,Plain,Beige,18-24,Autumn,103.13,Leather,86,22,4.6,5,ZARA,15%,2021/9/18,164,9,2021
+1491,Wool Jacket,Female,Jeans,Plain,Brown,25-35,Autumn,81.79,Leather,232,94,4.5,5,ZARA,15%,2021/9/23,187,9,2021
+1492,Blouse,Male,Shorts,Plain,Beige,18-24,Summer,51.23,Viscose,50,84,4.9,2,ZARA,15%,2021/9/23,238,9,2021
+1493,Chino Shorts,Male,Dress,Plain,White,35-45,Spring,39.98,Leather,456,93,3.9,5,ZARA,20%,2021/9/18,52,9,2021
+1494,Casual Jeans,Male,Jeans,Geometric,Beige,35-45,Summer,60.25,Leather,280,23,4,4,ZARA,5%,2021/9/28,93,9,2021
+1495,Beach Shirt,Female,Dress,Polka Dots,Brown,25-35,All,51.81,Cotton Blend,289,85,3.6,1,ZARA,20%,2021/9/29,212,9,2021
+1496,Beach Shirt,Male,Shoes,Striped,Orange,18-24,Summer,137.75,Leather,442,60,4.2,1,ZARA,15%,2021/10/29,145,10,2021
+1497,Business Shirt,Female,Shorts,Plain,Black,18-24,All,119.57,Cotton,407,56,3.7,4,ZARA,0%,2021/10/16,157,10,2021
+1498,Chino Shorts,Male,Blouse,Striped,Orange,18-24,Summer,98.95,Wool,118,99,4,2,ZARA,5%,2021/10/11,130,10,2021
+1499,Business Shirt,Female,Jacket,Plain,Orange,25-35,Summer,40.78,Cotton Blend,139,54,4.1,3,ZARA,10%,2021/10/3,96,10,2021
+1500,Heels,Female,Shoes,Plain,Orange,18-24,Winter,125.03,Viscose,242,36,3.3,3,ZARA,0%,2021/10/2,219,10,2021
+1501,Business Shirt,Male,Skirt,Striped,Black,18-24,Autumn,70,Viscose,362,67,4.2,2,ZARA,5%,2021/10/28,65,10,2021
+1502,Biker Jacket,Female,Blouse,Plain,Black,18-24,Winter,89.95,Cotton,135,39,3.2,6,ZARA,20%,2021/10/22,119,10,2021
+1503,Casual Jeans,Male,Shirt,Striped,Black,35-45,Summer,50.73,Wool,405,55,4.7,5,ZARA,15%,2021/10/22,76,10,2021
+1504,Chino Shorts,Male,Skirt,Striped,Black,18-24,All,61.8,Wool,264,36,3.1,5,ZARA,5%,2021/10/21,147,10,2021
+1505,Pattern Skirt,Female,Shorts,Plain,Black,18-24,Winter,79.03,Viscose,232,78,4.7,3,ZARA,20%,2021/10/26,97,10,2021
+1506,Summer Dress,Male,Skirt,Plain,Orange,35-45,All,92.95,Wool,388,90,3.7,5,ZARA,0%,2021/10/28,194,10,2021
+1507,Beach Shirt,Female,Jacket,Polka Dots,Navy Blue,25-35,Autumn,87.27,Cotton Blend,70,29,4.5,6,ZARA,20%,2021/11/25,221,11,2021
+1508,Casual Jeans,Female,Jacket,Polka Dots,White,18-24,Winter,70.25,Viscose,389,54,4.1,1,ZARA,5%,2021/11/22,195,11,2021
+1509,Beach Shirt,Male,Dress,Geometric,Grey,25-35,All,54.95,Leather,312,78,3.3,5,ZARA,15%,2021/11/15,50,11,2021
+1510,Biker Jacket,Male,Jeans,Plain,White,25-35,Winter,42.56,Leather,318,47,3.6,4,ZARA,10%,2021/11/14,218,11,2021
+1511,Beach Shirt,Male,Blouse,Polka Dots,White,35-45,All,122.02,Viscose,252,95,4.6,2,ZARA,15%,2021/11/28,159,11,2021
+1512,Blouse,Male,Jeans,Geometric,White,25-35,Summer,53.52,Leather,483,72,4.8,5,ZARA,0%,2021/11/17,164,11,2021
+1513,Pattern Skirt,Female,Shirt,Plain,Navy Blue,18-24,All,82.22,Leather,434,52,3.8,4,ZARA,15%,2021/11/7,231,11,2021
+1514,Chino Shorts,Female,Blouse,Plain,White,35-45,All,28.95,Denim,132,58,4.2,4,ZARA,15%,2021/11/21,89,11,2021
+1515,Beach Shirt,Female,Jacket,Geometric,Grey,25-35,Summer,128.82,Viscose,55,40,4.1,5,ZARA,0%,2021/11/21,231,11,2021
+1516,Beach Shirt,Female,Jacket,Polka Dots,Grey,35-45,All,71.48,Cotton,396,80,4.2,4,ZARA,20%,2021/11/6,197,11,2021
+1517,Heels,Female,Dress,Polka Dots,White,18-24,Summer,24.53,Synthetic,465,73,4.6,5,ZARA,0%,2021/11/26,167,11,2021
+1518,Blouse,Female,Dress,Polka Dots,Green,25-35,Winter,116.39,Cotton Blend,222,66,3.9,3,ZARA,20%,2021/12/22,96,12,2021
+1519,Pattern Skirt,Female,Blouse,Polka Dots,White,18-24,All,67.61,Denim,300,20,4.3,3,ZARA,5%,2021/12/26,241,12,2021
+1520,Casual Jeans,Female,Jacket,Plain,Green,18-24,All,34.45,Wool,153,27,4.1,6,ZARA,15%,2021/12/27,103,12,2021
+1521,Chino Shorts,Female,Shirt,Plain,White,35-45,Spring,46.82,Viscose,279,83,4.5,2,ZARA,10%,2021/12/21,239,12,2021
+1522,Casual Jeans,Female,Jacket,Plain,White,35-45,All,68.18,Leather,214,79,3.4,3,ZARA,10%,2021/12/9,94,12,2021
+1523,Beach Shirt,Male,Skirt,Plain,Green,35-45,Summer,47.51,Viscose,394,23,4.1,6,ZARA,15%,2021/12/17,82,12,2021
+1524,Heels,Female,Dress,Polka Dots,Green,18-24,All,82.22,Denim,371,38,4.5,1,ZARA,15%,2021/12/13,149,12,2021
+1525,Biker Jacket,Male,Skirt,Geometric,Red,18-24,Spring,115.12,Leather,205,89,3.3,5,ZARA,15%,2021/12/7,66,12,2021
+1526,Business Shirt,Male,Shorts,Plain,White,18-24,Autumn,104.45,Viscose,312,96,3.8,4,ZARA,15%,2021/12/24,73,12,2021
+1527,Wool Jacket,Female,Jacket,Plain,Green,35-45,All,27.01,Cotton,286,34,3.3,6,ZARA,0%,2021/12/8,153,12,2021
+1528,Casual Jeans,Female,Jeans,Geometric,Red,25-35,Autumn,62.56,Wool,157,99,3.1,6,ZARA,10%,2021/12/25,243,12,2021
+1529,Beach Shirt,Male,Shoes,Plain,White,18-24,Spring,78.02,Viscose,182,99,3.8,3,ZARA,20%,2022/1/29,128,1,2022
+1530,Casual Jeans,Male,Jacket,Polka Dots,Beige,25-35,Summer,145.75,Cotton Blend,325,57,3.6,5,ZARA,10%,2022/1/28,242,1,2022
+1531,Casual Jeans,Male,Shorts,Plain,Brown,18-24,All,103.19,Denim,252,40,3.5,6,ZARA,0%,2022/1/23,125,1,2022
+1532,Heels,Male,Dress,Polka Dots,White,35-45,Autumn,141.39,Viscose,52,55,3.6,4,ZARA,0%,2022/1/20,234,1,2022
+1533,Casual Jeans,Male,Shoes,Plain,Brown,25-35,Spring,135.59,Synthetic,295,32,4.6,5,ZARA,0%,2022/1/22,245,1,2022
+1534,Beach Shirt,Female,Jacket,Geometric,White,25-35,Spring,23.07,Cotton Blend,162,79,3.8,4,ZARA,20%,2022/1/16,186,1,2022
+1535,Biker Jacket,Female,Dress,Geometric,White,35-45,All,28.42,Wool,91,49,4.9,3,ZARA,0%,2022/1/26,209,1,2022
+1536,Heels,Female,Dress,Plain,White,35-45,Autumn,131.48,Leather,427,31,3.1,6,ZARA,0%,2022/1/12,167,1,2022
+1537,Blouse,Female,Shirt,Polka Dots,Brown,25-35,Summer,99.69,Leather,491,83,3.4,1,ZARA,5%,2022/1/7,60,1,2022
+1538,Wool Jacket,Male,Dress,Geometric,White,25-35,All,103.95,Denim,408,85,4.3,2,ZARA,15%,2022/1/26,141,1,2022
+1539,Summer Dress,Female,Dress,Geometric,White,18-24,Spring,114.28,Cotton Blend,233,53,4.9,1,ZARA,5%,2022/1/7,143,1,2022
+1540,Casual Jeans,Male,Skirt,Polka Dots,Red,35-45,Autumn,62.82,Denim,334,90,3.3,3,ZARA,0%,2022/2/2,177,2,2022
+1541,Summer Dress,Male,Shoes,Polka Dots,Pink,25-35,Spring,128.43,Denim,197,51,4.9,4,ZARA,0%,2022/2/20,207,2,2022
+1542,Pattern Skirt,Female,Shirt,Polka Dots,Pink,35-45,All,147.24,Leather,442,63,3.7,3,ZARA,0%,2022/2/15,172,2,2022
+1543,Wool Jacket,Male,Skirt,Polka Dots,Pink,25-35,Autumn,36.51,Leather,190,70,4.6,2,ZARA,10%,2022/2/7,250,2,2022
+1544,Heels,Male,Blouse,Plain,Red,25-35,All,145.28,Denim,65,77,4.1,2,ZARA,5%,2022/2/9,158,2,2022
+1545,Pattern Skirt,Female,Shorts,Polka Dots,Red,18-24,Winter,117.42,Wool,113,44,3.3,5,ZARA,10%,2022/2/18,124,2,2022
+1546,Chino Shorts,Male,Blouse,Heart,Red,25-35,Spring,79.33,Leather,407,39,4.1,2,ZARA,20%,2022/2/25,212,2,2022
+1547,Beach Shirt,Female,Blouse,Plain,Pink,25-35,Winter,93.1,Cotton Blend,69,35,3.7,2,ZARA,5%,2022/2/26,167,2,2022
+1548,Beach Shirt,Male,Jacket,Polka Dots,Red,18-24,All,148.46,Synthetic,239,58,3.1,1,ZARA,0%,2022/2/27,133,2,2022
+1549,Pattern Skirt,Male,Blouse,Polka Dots,Pink,18-24,Autumn,59.04,Denim,209,23,4.9,4,ZARA,5%,2022/2/1,159,2,2022
+1550,Chino Shorts,Female,Dress,Heart,Red,35-45,All,34.57,Viscose,438,89,3.3,4,ZARA,20%,2022/2/14,160,2,2022
+1551,Pattern Skirt,Male,Shorts,Geometric,Brown,35-45,Summer,60.66,Synthetic,383,61,3.6,1,ZARA,15%,2022/3/11,244,3,2022
+1552,Business Shirt,Female,Shorts,Polka Dots,Beige,18-24,Winter,138.04,Cotton,371,75,3,2,ZARA,20%,2022/3/19,153,3,2022
+1553,Heels,Female,Skirt,Plain,Beige,25-35,Autumn,50.06,Leather,481,82,3.9,3,ZARA,10%,2022/3/6,145,3,2022
+1554,Heels,Male,Shorts,Geometric,White,35-45,Spring,76.7,Cotton Blend,63,91,4.9,6,ZARA,15%,2022/3/16,237,3,2022
+1555,Heels,Male,Shoes,Geometric,Brown,35-45,Summer,27.74,Leather,141,86,3.1,1,ZARA,20%,2022/3/16,149,3,2022
+1556,Chino Shorts,Female,Shorts,Polka Dots,White,35-45,Spring,112.99,Synthetic,241,59,4.7,3,ZARA,0%,2022/3/17,140,3,2022
+1557,Beach Shirt,Male,Shorts,Polka Dots,Brown,18-24,Autumn,102.07,Cotton,191,55,3.3,1,ZARA,15%,2022/3/13,175,3,2022
+1558,Casual Jeans,Female,Shoes,Polka Dots,Brown,25-35,Summer,31.71,Denim,212,49,4,2,ZARA,5%,2022/3/14,94,3,2022
+1559,Chino Shorts,Male,Dress,Polka Dots,White,25-35,All,67.01,Denim,488,79,3.5,3,ZARA,10%,2022/3/9,151,3,2022
+1560,Pattern Skirt,Female,Shorts,Geometric,Brown,18-24,Autumn,77.13,Cotton,306,37,3.2,6,ZARA,15%,2022/3/15,109,3,2022
+1561,Business Shirt,Male,Dress,Polka Dots,Beige,25-35,Winter,50.15,Viscose,86,85,4.9,5,ZARA,20%,2022/3/17,229,3,2022
+1562,Wool Jacket,Male,Jeans,Plain,Beige,25-35,Spring,112.78,Synthetic,489,93,3.7,5,ZARA,5%,2022/4/3,138,4,2022
+1563,Beach Shirt,Female,Jeans,Plain,Brown,18-24,Spring,37.54,Synthetic,327,88,4.8,5,ZARA,5%,2022/4/24,228,4,2022
+1564,Heels,Female,Dress,Polka Dots,Brown,18-24,Winter,135.3,Synthetic,490,38,3,4,ZARA,15%,2022/4/2,84,4,2022
+1565,Beach Shirt,Female,Blouse,Plain,White,35-45,Autumn,87.66,Leather,74,79,3.8,1,ZARA,10%,2022/4/7,121,4,2022
+1566,Pattern Skirt,Female,Blouse,Geometric,Brown,25-35,Spring,141.93,Viscose,278,63,5,3,ZARA,10%,2022/4/13,87,4,2022
+1567,Summer Dress,Female,Shirt,Geometric,Beige,35-45,Spring,89.14,Leather,159,99,3.5,5,ZARA,0%,2022/4/17,119,4,2022
+1568,Pattern Skirt,Female,Shirt,Plain,Brown,18-24,Summer,23.19,Synthetic,471,32,3.8,2,ZARA,15%,2022/4/27,211,4,2022
+1569,Beach Shirt,Male,Shorts,Geometric,Beige,18-24,Autumn,114.03,Denim,98,90,4.2,6,ZARA,10%,2022/4/11,218,4,2022
+1570,Heels,Female,Blouse,Geometric,White,35-45,Summer,121.19,Viscose,59,60,3.7,4,ZARA,10%,2022/4/23,144,4,2022
+1571,Heels,Male,Jeans,Polka Dots,Brown,25-35,Summer,59.44,Cotton Blend,462,35,4.8,2,ZARA,15%,2022/4/12,50,4,2022
+1572,Blouse,Female,Skirt,Polka Dots,White,18-24,All,96.7,Leather,52,92,3.6,2,ZARA,20%,2022/4/5,101,4,2022
+1573,Beach Shirt,Male,Shoes,Polka Dots,Brown,18-24,Autumn,73.37,Viscose,144,25,3.2,6,ZARA,0%,2022/5/10,218,5,2022
+1574,Pattern Skirt,Male,Skirt,Plain,Beige,18-24,Autumn,21.34,Denim,282,56,4.7,3,ZARA,10%,2022/5/1,169,5,2022
+1575,Blouse,Male,Shirt,Geometric,Brown,35-45,All,96.35,Denim,421,84,4.9,1,ZARA,20%,2022/5/13,96,5,2022
+1576,Biker Jacket,Male,Skirt,Plain,Brown,35-45,All,82.01,Denim,494,76,3.2,5,ZARA,0%,2022/5/16,56,5,2022
+1577,Biker Jacket,Male,Dress,Polka Dots,White,18-24,Winter,73.43,Leather,178,24,4.5,5,ZARA,20%,2022/5/10,226,5,2022
+1578,Wool Jacket,Female,Blouse,Plain,Brown,35-45,All,21.63,Denim,64,33,4,5,ZARA,0%,2022/5/15,239,5,2022
+1579,Chino Shorts,Male,Shirt,Polka Dots,Brown,25-35,Autumn,135.74,Synthetic,249,93,4.9,4,ZARA,15%,2022/5/10,242,5,2022
+1580,Blouse,Male,Skirt,Geometric,Beige,35-45,Autumn,71.68,Viscose,79,52,4,4,ZARA,5%,2022/5/19,237,5,2022
+1581,Biker Jacket,Female,Dress,Polka Dots,Brown,18-24,Autumn,60.51,Synthetic,349,33,4.9,5,ZARA,5%,2022/5/14,139,5,2022
+1582,Casual Jeans,Female,Jacket,Geometric,Beige,18-24,Spring,126.77,Wool,69,81,3.6,1,ZARA,15%,2022/5/21,183,5,2022
+1583,Wool Jacket,Female,Shoes,Geometric,Beige,18-24,Spring,64.52,Wool,245,69,3.9,5,ZARA,0%,2022/5/14,107,5,2022
+1584,Beach Shirt,Female,Blouse,Floral,Sky Blue,35-45,Spring,77.25,Leather,161,41,3.6,4,ZARA,0%,2022/6/1,143,6,2022
+1585,Summer Dress,Female,Skirt,Plain,White,18-24,All,41.37,Synthetic,279,96,3,1,ZARA,10%,2022/6/8,130,6,2022
+1586,Blouse,Male,Shorts,Plain,Sky Blue,35-45,All,31.55,Cotton Blend,452,44,3.8,4,ZARA,10%,2022/6/9,102,6,2022
+1587,Summer Dress,Male,Dress,Plain,Sky Blue,35-45,All,61.67,Denim,98,49,3.7,6,ZARA,20%,2022/6/1,241,6,2022
+1588,Heels,Female,Shoes,Floral,Sky Blue,25-35,Autumn,93.4,Wool,486,99,3.6,5,ZARA,5%,2022/6/2,244,6,2022
+1589,Biker Jacket,Male,Blouse,Geometric,Yellow,18-24,Spring,111.15,Cotton,214,80,3.4,5,ZARA,20%,2022/6/18,247,6,2022
+1590,Summer Dress,Female,Shorts,Plain,White,25-35,Autumn,111.01,Leather,255,66,4.6,2,ZARA,10%,2022/6/13,239,6,2022
+1591,Casual Jeans,Male,Jeans,Plain,Sky Blue,35-45,All,53.38,Wool,181,35,4.6,1,ZARA,5%,2022/6/14,84,6,2022
+1592,Casual Jeans,Female,Skirt,Geometric,Yellow,18-24,Summer,65.04,Cotton Blend,402,30,3.8,4,ZARA,10%,2022/6/18,69,6,2022
+1593,Wool Jacket,Male,Shoes,Geometric,Yellow,25-35,Autumn,70.21,Leather,266,74,3.2,3,ZARA,0%,2022/6/12,137,6,2022
+1594,Wool Jacket,Male,Dress,Floral,Sky Blue,25-35,Autumn,52.81,Cotton Blend,375,66,4.3,6,ZARA,15%,2022/6/21,184,6,2022
+1595,Casual Jeans,Male,Jeans,Geometric,Brown,35-45,Spring,113.64,Wool,381,58,3.6,6,ZARA,5%,2022/7/8,221,7,2022
+1596,Beach Shirt,Male,Shorts,Plain,Beige,35-45,Winter,37.05,Cotton Blend,245,22,3.9,5,ZARA,20%,2022/7/15,138,7,2022
+1597,Chino Shorts,Female,Blouse,Plain,Brown,25-35,Autumn,43.55,Wool,370,59,3.5,4,ZARA,15%,2022/7/6,124,7,2022
+1598,Casual Jeans,Male,Jeans,Geometric,Brown,25-35,Autumn,78.6,Cotton Blend,81,34,4.4,5,ZARA,0%,2022/7/5,239,7,2022
+1599,Heels,Male,Jacket,Polka Dots,White,25-35,Autumn,149.93,Synthetic,361,78,4.1,2,ZARA,15%,2022/7/14,128,7,2022
+1600,Heels,Male,Shorts,Geometric,White,25-35,Summer,32.43,Synthetic,200,100,3.7,1,ZARA,5%,2022/7/20,98,7,2022
+1601,Blouse,Female,Skirt,Plain,White,25-35,Autumn,120.7,Wool,77,25,3.3,5,ZARA,20%,2022/7/29,168,7,2022
+1602,Business Shirt,Male,Jeans,Geometric,Beige,35-45,All,72.77,Synthetic,428,99,4.6,2,ZARA,20%,2022/7/6,173,7,2022
+1603,Blouse,Male,Shirt,Plain,Brown,35-45,Winter,107.91,Wool,344,98,4.8,4,ZARA,15%,2022/7/24,131,7,2022
+1604,Blouse,Female,Shorts,Geometric,Beige,25-35,Spring,141.74,Viscose,221,34,4.9,5,ZARA,20%,2022/7/19,197,7,2022
+1605,Wool Jacket,Female,Jacket,Plain,Brown,35-45,Winter,116.08,Viscose,303,37,4.1,3,ZARA,0%,2022/7/4,169,7,2022
+1606,Pattern Skirt,Male,Blouse,Plain,White,35-45,All,64.75,Synthetic,159,65,4.4,4,ZARA,10%,2022/8/21,174,8,2022
+1607,Wool Jacket,Female,Blouse,Plain,Brown,35-45,Autumn,96.88,Synthetic,394,49,3.1,3,ZARA,20%,2022/8/15,122,8,2022
+1608,Blouse,Female,Dress,Plain,Beige,18-24,Spring,134.53,Denim,427,53,4.5,1,ZARA,0%,2022/8/24,63,8,2022
+1609,Pattern Skirt,Male,Shorts,Polka Dots,Beige,25-35,Winter,80.07,Leather,239,88,4.1,6,ZARA,5%,2022/8/5,85,8,2022
+1610,Chino Shorts,Male,Jacket,Polka Dots,White,25-35,Winter,76.6,Wool,59,28,4.3,3,ZARA,20%,2022/8/27,73,8,2022
+1611,Beach Shirt,Female,Shoes,Plain,White,35-45,Spring,65.65,Leather,59,85,4.5,4,ZARA,0%,2022/8/17,215,8,2022
+1612,Biker Jacket,Female,Shirt,Polka Dots,Brown,18-24,Spring,101.68,Leather,193,23,3.7,5,ZARA,5%,2022/8/14,74,8,2022
+1613,Beach Shirt,Male,Skirt,Geometric,Beige,35-45,All,20.25,Leather,112,50,3.1,6,ZARA,20%,2022/8/27,92,8,2022
+1614,Pattern Skirt,Male,Jeans,Polka Dots,Beige,35-45,Summer,111.8,Wool,371,84,4.6,1,ZARA,20%,2022/8/8,116,8,2022
+1615,Wool Jacket,Male,Shirt,Plain,Brown,35-45,All,146.82,Viscose,53,93,3.9,5,ZARA,0%,2022/8/19,217,8,2022
+1616,Biker Jacket,Female,Skirt,Plain,Brown,18-24,Summer,34.99,Viscose,286,43,3,3,ZARA,5%,2022/8/9,96,8,2022
+1617,Blouse,Male,Shoes,Geometric,Brown,35-45,All,69.19,Leather,331,48,4.5,6,ZARA,15%,2022/9/10,233,9,2022
+1618,Blouse,Male,Jeans,Polka Dots,Beige,18-24,Autumn,144.28,Cotton Blend,353,49,3.5,1,ZARA,10%,2022/9/23,212,9,2022
+1619,Business Shirt,Male,Shorts,Plain,Beige,25-35,Winter,144.79,Cotton,333,46,3.4,5,ZARA,0%,2022/9/24,234,9,2022
+1620,Beach Shirt,Male,Jeans,Polka Dots,White,35-45,Winter,62.68,Viscose,86,50,3.8,5,ZARA,0%,2022/9/21,54,9,2022
+1621,Chino Shorts,Female,Dress,Geometric,Brown,25-35,Winter,98.01,Leather,347,97,3.2,3,ZARA,15%,2022/9/16,58,9,2022
+1622,Business Shirt,Female,Dress,Plain,Beige,25-35,Summer,85.96,Cotton Blend,146,34,3.2,2,ZARA,0%,2022/9/13,62,9,2022
+1623,Summer Dress,Male,Skirt,Polka Dots,Beige,18-24,Winter,34.87,Viscose,172,33,4.6,2,ZARA,5%,2022/9/21,154,9,2022
+1624,Wool Jacket,Female,Jeans,Polka Dots,Beige,35-45,Spring,60.02,Denim,259,41,4.3,6,ZARA,5%,2022/9/23,231,9,2022
+1625,Summer Dress,Male,Shoes,Plain,Brown,18-24,Spring,148.92,Wool,155,40,3.8,1,ZARA,10%,2022/9/16,194,9,2022
+1626,Casual Jeans,Male,Jeans,Polka Dots,Beige,25-35,Spring,139.28,Cotton,303,97,4,2,ZARA,15%,2022/9/20,68,9,2022
+1627,Chino Shorts,Female,Skirt,Geometric,Brown,18-24,Autumn,127.56,Synthetic,70,91,4.3,2,ZARA,20%,2022/9/3,65,9,2022
+1628,Wool Jacket,Female,Jacket,Plain,Orange,25-35,Spring,149.41,Cotton Blend,491,76,4.3,4,ZARA,10%,2022/10/3,80,10,2022
+1629,Business Shirt,Male,Blouse,Striped,Orange,35-45,Autumn,53.01,Cotton Blend,308,70,3,6,ZARA,10%,2022/10/7,169,10,2022
+1630,Chino Shorts,Female,Skirt,Striped,Black,25-35,Summer,79.18,Leather,435,89,4,5,ZARA,10%,2022/10/28,81,10,2022
+1631,Heels,Female,Blouse,Striped,Black,18-24,Spring,44.92,Wool,340,71,4.5,1,ZARA,5%,2022/10/16,136,10,2022
+1632,Summer Dress,Male,Jacket,Striped,Orange,25-35,Summer,46.09,Cotton,122,49,4.7,5,ZARA,10%,2022/10/24,186,10,2022
+1633,Beach Shirt,Male,Jeans,Striped,Black,25-35,Winter,38.13,Leather,313,98,3.7,2,ZARA,10%,2022/10/4,99,10,2022
+1634,Wool Jacket,Male,Shorts,Plain,Black,25-35,Spring,48.24,Synthetic,105,82,4.2,2,ZARA,0%,2022/10/28,153,10,2022
+1635,Pattern Skirt,Female,Skirt,Plain,Black,35-45,Summer,56.2,Leather,65,71,4.9,2,ZARA,20%,2022/10/18,161,10,2022
+1636,Blouse,Male,Shirt,Plain,Orange,25-35,All,52.81,Viscose,218,67,3.7,2,ZARA,20%,2022/10/28,242,10,2022
+1637,Casual Jeans,Male,Jacket,Striped,Black,35-45,Spring,141.19,Synthetic,472,76,4.1,1,ZARA,5%,2022/10/9,162,10,2022
+1638,Wool Jacket,Female,Shirt,Striped,Black,25-35,Winter,143.39,Cotton Blend,145,44,3.5,2,ZARA,20%,2022/10/14,98,10,2022
+1639,Beach Shirt,Female,Skirt,Polka Dots,White,25-35,Autumn,20.64,Cotton,190,23,3.3,1,ZARA,0%,2022/11/25,108,11,2022
+1640,Casual Jeans,Male,Jeans,Plain,White,35-45,All,101.47,Wool,471,69,3.7,5,ZARA,0%,2022/11/25,126,11,2022
+1641,Business Shirt,Male,Shoes,Polka Dots,White,25-35,Autumn,148.75,Synthetic,412,83,3.6,1,ZARA,10%,2022/11/22,72,11,2022
+1642,Biker Jacket,Male,Jacket,Geometric,Navy Blue,25-35,Winter,149.19,Cotton,256,56,3.3,2,ZARA,5%,2022/11/10,186,11,2022
+1643,Biker Jacket,Female,Shorts,Plain,Grey,25-35,Winter,49.02,Cotton Blend,233,38,4.4,4,ZARA,10%,2022/11/23,55,11,2022
+1644,Pattern Skirt,Female,Jeans,Geometric,Navy Blue,18-24,Spring,93.6,Cotton Blend,418,31,3.7,2,ZARA,0%,2022/11/2,70,11,2022
+1645,Beach Shirt,Male,Skirt,Polka Dots,Grey,25-35,All,55.88,Wool,203,40,4.8,5,ZARA,10%,2022/11/26,215,11,2022
+1646,Wool Jacket,Female,Jacket,Polka Dots,Grey,35-45,Spring,124.35,Cotton,434,51,3.2,4,ZARA,10%,2022/11/9,178,11,2022
+1647,Chino Shorts,Male,Shirt,Geometric,Grey,35-45,Summer,137.08,Denim,88,60,4.5,5,ZARA,5%,2022/11/29,114,11,2022
+1648,Blouse,Female,Skirt,Geometric,White,25-35,Summer,77.7,Denim,144,97,3.2,1,ZARA,10%,2022/11/26,51,11,2022
+1649,Blouse,Female,Jeans,Plain,Grey,18-24,All,127.82,Viscose,321,92,3.1,3,ZARA,10%,2022/11/25,150,11,2022
+1650,Blouse,Male,Jeans,Geometric,Red,35-45,Spring,82.19,Cotton Blend,482,99,5,1,ZARA,15%,2022/12/10,177,12,2022
+1651,Business Shirt,Male,Shirt,Geometric,White,25-35,All,78.87,Leather,338,41,3.5,5,ZARA,0%,2022/12/4,237,12,2022
+1652,Heels,Male,Shoes,Polka Dots,White,18-24,All,32.14,Wool,431,21,3.6,6,ZARA,0%,2022/12/10,196,12,2022
+1653,Beach Shirt,Male,Shirt,Plain,Green,35-45,Summer,84.67,Viscose,252,49,4.4,5,ZARA,10%,2022/12/15,171,12,2022
+1654,Heels,Female,Jeans,Geometric,Red,18-24,Summer,37.71,Cotton Blend,467,98,4.2,2,ZARA,10%,2022/12/25,248,12,2022
+1655,Biker Jacket,Female,Blouse,Geometric,Green,25-35,Spring,76.82,Cotton,176,42,3.8,4,ZARA,15%,2022/12/9,103,12,2022
+1656,Wool Jacket,Female,Jacket,Geometric,Green,25-35,Summer,48.45,Wool,328,76,5,2,ZARA,20%,2022/12/10,127,12,2022
+1657,Summer Dress,Female,Dress,Plain,White,18-24,Winter,61.52,Cotton,200,42,4.7,3,ZARA,10%,2022/12/26,86,12,2022
+1658,Blouse,Female,Shoes,Geometric,White,35-45,Autumn,31.07,Synthetic,478,42,4,3,ZARA,10%,2022/12/1,111,12,2022
+1659,Biker Jacket,Male,Shirt,Polka Dots,Red,18-24,Winter,139.69,Cotton Blend,125,50,4.8,3,ZARA,5%,2022/12/12,127,12,2022
+1660,Casual Jeans,Female,Shirt,Geometric,White,25-35,Spring,119.86,Synthetic,215,66,3.6,4,ZARA,0%,2022/12/15,205,12,2022
