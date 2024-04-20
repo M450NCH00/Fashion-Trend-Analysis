@@ -6,7 +6,7 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 2. [Data Extraction]()
 3. [Data Visualization]()
 4. [Data Classification]()
-5. [Presentation Slides]()
+5. [Presentation Slides (Direct Link to Canva](https://www.canva.com/design/DAGC7sSQ0mY/7Q8ANhvqiRlKOIgFYsWkTA/edit)
 
 ## Contributors
 
