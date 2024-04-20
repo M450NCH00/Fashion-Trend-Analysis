@@ -20,9 +20,14 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Models Used
 
+1. Decision Tree
+2. Random Forest
+
 ## Conclusion
 
 ## Lessons Learnt
+
+- Handling imbalanced dataset with limited and 
 
 ## References
 - <https://www.kaggle.com/datasets/fashionworldda/fashion-trend-dataset>
