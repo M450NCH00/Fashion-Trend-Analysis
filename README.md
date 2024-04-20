@@ -51,5 +51,6 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 - <https://aegis4048.github.io/mutiple_linear_regression_and_visualization_in_python>
 - <https://towardsdatascience.com/random-forest-classification-678e551462f5>
 - <https://www.datacamp.com/tutorial/random-forests-classifier-python>
+- <https://www.geeksforgeeks.org/make-3d-interactive-matplotlib-plot-in-jupyter-notebook/>
 - <https://matplotlib.org/stable/gallery/mplot3d/3d_bars.html>
 - <https://www.youtube.com/watch?v=k3FA2nUHEEI>
