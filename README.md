@@ -31,6 +31,7 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
   taking a very long time to run, or it would result in less accurate classification when max depth is limited.
 - Random Forest can make more accurate prediction and classification compared to Decision Tree as Random Forest 
   makes classification based on multiple Decision Trees
+- Choosing predictors with better correlation with the response data is essential for more accurate classification
 - It is possible to make prediction on fahsion data but only on data that has a stable high correlation and with sufficient data
 - It is possible to make prediction on the gender by classifying sales count on various category of clothing
 
