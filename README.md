@@ -25,7 +25,11 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Conclusion
 
-- 
+- Data set with unpredictable and chaotic nature is not suitable for linear regression
+- Random Forest can make more accurate prediction and classification compared to Decision Tree as Random Forest makes classification 
+  based on multiple Decision Trees
+- It is possible to make prediction on fahsion data but only on data that has a stable high correlation and with sufficient data
+- It is possible to make prediction on the gender by classifying sales count on various category of clothing
 
 ## Lessons Learnt
 
@@ -35,6 +39,7 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 - Understanding the use of Random Forest in classification and prediction
 - Learning to plot three dimensional (3D) graphs using matplotlib module
 - Collaborating using GitHub
+- Understanding the different uses of linear regression and classification
 
 ## References
 - <https://www.kaggle.com/datasets/fashionworldda/fashion-trend-dataset>
