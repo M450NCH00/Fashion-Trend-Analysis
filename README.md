@@ -8,10 +8,15 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 4. [Data Classification]()
 
 ## Contributors
+
 1. Chow Weng Shi
 2. Chew En Zee
 3. Choo Zhen Ming
+   
 ## Problem Definition
+
+1. Are we able to make predictions on fashion data if fashion is ever-changing and hard to predict?
+2. Are we able to predict and classify the gender of customer based on the sales count of various category of clothing?
 
 ## Models Used
 
