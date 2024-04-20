@@ -27,7 +27,12 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Lessons Learnt
 
-- Handling imbalanced dataset with limited and 
+- Handling imbalanced and limited dataset with a somewhat unpredictable and chaotic nature
+- Creating a pivot table from the extracted data
+- Further understanding of how decision tree works in classifying data
+- Understanding the use of Random Forest in classification and prediction
+- Learning to plot three dimensional (3D) graphs using matplotlib module
+- Collaborating using GitHub
 
 ## References
 - <https://www.kaggle.com/datasets/fashionworldda/fashion-trend-dataset>
